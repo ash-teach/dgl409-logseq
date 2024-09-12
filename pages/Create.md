@@ -1,0 +1,4 @@
+- Putting elements together to form a novel, coherent whole, or make an original product
+	- Generating
+	- Planning
+	- Producing

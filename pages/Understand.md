@@ -1,0 +1,8 @@
+- Determining the meaning of instructional messages
+	- Interpreting
+	- Exemplifying
+	- Classifying
+	- Summarizing
+	- Inferring
+	- Comparing
+	- Explaining

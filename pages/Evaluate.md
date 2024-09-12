@@ -1,0 +1,3 @@
+- Making judgements based on criteria and standards
+	- Checking
+	- Critiquing

@@ -1,0 +1,1 @@
+- design and manage a self-directed project through the stages of discovery, planning, production, deployment and presentation

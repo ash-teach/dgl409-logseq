@@ -1,0 +1,9 @@
+- Intent: Provide a framework to write their project summary.
+- Project summary for the case study has the following specs:
+	- Word count: 80 - 110
+	- Voice: third person / objective, present tense
+- Exercise
+	- Provide each group with a project summary (use [Reeve's](https://learndigital.dev/students/reeve-jarvis/))
+	- Groups break down the project summary (do a content analysis) - what is included? how is it worded?
+	- Present their findings to the class.
+	- Each student can then try to write a project summary following the same rules and read it out to the class for feedback.

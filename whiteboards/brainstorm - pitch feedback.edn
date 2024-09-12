@@ -1,0 +1,367 @@
+{:blocks (
+{:block/created-at 1725897024363
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [264 106]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "156b2970-6ec2-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [152 280]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725896533597
+:italic false
+:text "Delivery\n- Monotone or expressive?\n- Fast or slow?\n- Boring or interesting?"}}
+:block/updated-at 1725897024363} 
+{:block/created-at 1725897121605
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [226 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5a804040-6ec2-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [464 360]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725896649408
+:italic false
+:text "Clarity of personal role"}}
+:block/updated-at 1725897121605} 
+{:block/created-at 1725897364481
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [342 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "65b1b2f0-6ec2-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [824 384]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725896668359
+:italic false
+:text "Call to action / contact / next steps"}}
+:block/updated-at 1725897364481} 
+{:block/created-at 1725897358544
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [203 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7d2e6cc0-6ec2-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [824 336]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725896707809
+:italic false
+:text "Solution for problem"}}
+:block/updated-at 1725897358544} 
+{:block/created-at 1725897123860
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [141 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bc2225c0-6ec2-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [464 408]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725896813223
+:italic false
+:text "Clarity in goal"}}
+:block/updated-at 1725897123860} 
+{:block/created-at 1725897119786
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [200 32]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e056cb30-6ec2-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [464 312]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725896874223
+:italic false
+:text "Is there a hook?"}}
+:block/updated-at 1725897119786} 
+{:block/created-at 1725897125771
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [121 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fce96640-6ec2-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [464 456]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725896921947
+:italic false
+:text "Too wordy?"}}
+:block/updated-at 1725897125771} 
+{:block/created-at 1725897128116
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [254 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "043a1c50-6ec3-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [464 504]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725896934199
+:italic false
+:text "Are there enough details?"}}
+:block/updated-at 1725897128116} 
+{:block/created-at 1725897131127
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [221 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1959d350-6ec3-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [464 560]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725896969596
+:italic false
+:text "Length - 30 s to 2 min"}}
+:block/updated-at 1725897131127} 
+{:block/created-at 1725897137698
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [179 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3c377440-6ec3-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [464 616]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725897028133
+:italic false
+:text "Too much jargon?"}}
+:block/updated-at 1725897137698} 
+{:block/created-at 1725897135692
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [163 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6271adb0-6ec3-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [464 672]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725897092183
+:italic false
+:text "Is it compelling?"}}
+:block/updated-at 1725897135692} 
+{:block/created-at 1725897586783
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [164 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "83f2d670-6ec4-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [464 728]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:nonce 1725897577857
+:italic false
+:text "Is there a story?"}}
+:block/updated-at 1725897586783})
+:pages (
+{:block/uuid #uuid "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:name "66df1734-29c9-4558-bdb1-b511254bb7e5"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("156b2970-6ec2-11ef-abb0-e1999fc6daa3" "5a804040-6ec2-11ef-abb0-e1999fc6daa3" "65b1b2f0-6ec2-11ef-abb0-e1999fc6daa3" "7d2e6cc0-6ec2-11ef-abb0-e1999fc6daa3" "bc2225c0-6ec2-11ef-abb0-e1999fc6daa3" "e056cb30-6ec2-11ef-abb0-e1999fc6daa3" "fce96640-6ec2-11ef-abb0-e1999fc6daa3" "043a1c50-6ec3-11ef-abb0-e1999fc6daa3" "1959d350-6ec3-11ef-abb0-e1999fc6daa3" "3c377440-6ec3-11ef-abb0-e1999fc6daa3" "6271adb0-6ec3-11ef-abb0-e1999fc6daa3" "83f2d670-6ec4-11ef-abb0-e1999fc6daa3")}}
+:block/updated-at 1725897586783
+:block/created-at 1725896500526
+:block/type "whiteboard"
+:block/name "brainstorm - pitch feedback"
+:block/original-name "brainstorm - pitch feedback"})}

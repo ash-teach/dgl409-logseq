@@ -1,0 +1,7 @@
+- Intent: Provide a framework to define their client.
+- Show an example of a client summary.
+- Writing exercise:
+	- Who is your client? What do they do?
+	- What are their business goals?
+	- How does the digital product that you are going to make help them meet those goals? Clearly define the primary goals and objectives of the project. Ensure they are specific, measurable, achievable, relevant, and time-bound (SMART).
+	- How will the client measure the success of this project? Define the Key Performance Indicators (KPIs).

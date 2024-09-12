@@ -1,0 +1,3 @@
+- Basic elements that students must know to be acquainted with a discipline or solve a problem in it
+	- Knowledge of terminology
+	- Knowledge of specific details and elements

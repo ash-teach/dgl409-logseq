@@ -1,0 +1,3 @@
+- Retrieving relevant knowledge from long-term memory.
+	- Recognizing
+	- Recalling

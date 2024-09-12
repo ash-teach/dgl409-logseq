@@ -1,0 +1,4 @@
+- How to do something: methods of inquiry, and criteria for using skills, algorithms, techniques and methods
+	- Knowledge of subject specific skills, and algorithms
+	- Knowledge of techniques and methods
+	- Knowledge of criteria for determining when to use appropriate procedures

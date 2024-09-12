@@ -1,0 +1,19 @@
+# Description
+	- The capstone proposal is a structured presentation of all research and documentation generated in the discovery and planning stages of the capstone project.
+- # Requirements
+	- The student must demonstrate a deep understanding of the context of project development by producing a complete proposal of appropriate scope. There is evidence of critical reflective processes in research, revision, and overall effectiveness of presentation.
+	- The student must demonstrate meaningful and achievable learning objectives that propose synthesis activities related to the student's technical strengths.
+	- The student must demonstrate effective design, user research and project management skills through the presentation of an organized and achievable proposal, including well-defined deliverables.
+- # Checklist
+	- Student bio (80 - 150 words, first person)
+	- Project summary (80 - 110 words, third person)
+	- Key Performance Indicators (KPIs) (at least two, with justification)
+	- Competitive analysis (at least three competitors, including key stats, comparative strengths and weaknesses)
+	- User personas (at least three, narrow)
+	- Needs statements (one per persona)
+	- User journey map (for one persona)
+	- Site map (including web and mobile versions, if applicable)
+	- Wireframes (including web and mobile versions, if applicable)
+	- Gantt chart (with balanced hours throughout term)
+	- Granular task list
+	- Toggle report

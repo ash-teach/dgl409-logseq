@@ -1,0 +1,424 @@
+{:blocks (
+{:block/created-at 1725905842625
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 0
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [486 279]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7bd8e250-6ed7-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [192 120]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725905724829
+:italic false
+:text "What the competition is lacking\n- Features\n- UX\n- Price\n- Platform availability\n- Scalability\n- Narrow market"}}
+:block/updated-at 1725905842625} 
+{:block/created-at 1725905969641
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [793 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ec34c500-6ed7-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [776 120]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725905913308
+:italic false
+:text "Identification / comparison of critical / core features"}}
+:block/updated-at 1725905969641} 
+{:block/created-at 1725906398928
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [354 164]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "17192590-6ed8-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [760 272]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725905985254
+:italic false
+:text "Competition resources\n- Team size\n- Budget / funding\n- Legal"}}
+:block/updated-at 1725906398928} 
+{:block/created-at 1725906635498
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [388 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "452b4670-6ed8-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [296 584]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725906062707
+:italic false
+:text "Competitor market share"}}
+:block/updated-at 1725906635498} 
+{:block/created-at 1725906726059
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 4
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [360 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "395e88b0-6ed9-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [968 552]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725906472329
+:italic false
+:text "Competitor market cap"}}
+:block/updated-at 1725906726059} 
+{:block/created-at 1725906732480
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 5
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [489 126]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4768bde0-6ed9-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [968 616]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725906495887
+:italic false
+:text "Reviews of competing products\n- Positive and negative / critical\n- Stars / ratings"}}
+:block/updated-at 1725906732480} 
+{:block/created-at 1725906639209
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 6
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [253 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "67051680-6ed9-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [304 640]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725906549004
+:italic false
+:text "Search indexing"}}
+:block/updated-at 1725906639209} 
+{:block/created-at 1725906641541
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 7
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [232 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "720b0c60-6ed9-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [304 704]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725906567356
+:italic false
+:text "Website traffic"}}
+:block/updated-at 1725906641541} 
+{:block/created-at 1725906644268
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 8
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [345 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "76e9ff20-6ed9-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [312 768]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725906575604
+:italic false
+:text "Number of downloads"}}
+:block/updated-at 1725906644268} 
+{:block/created-at 1725906734643
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 9
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [367 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8be95ce0-6ed9-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [968 768]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725906610703
+:italic false
+:text "Potential for acquisition"}}
+:block/updated-at 1725906734643} 
+{:block/created-at 1725906665705
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 10
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [234 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a3956410-6ed9-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [312 832]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725906650447
+:italic false
+:text "Public revenue"}}
+:block/updated-at 1725906665705} 
+{:block/created-at 1725906682353
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 11
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [308 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "aff1c230-6ed9-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [312 896]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725906671144
+:italic false
+:text "Public - stock value"}}
+:block/updated-at 1725906682353} 
+{:block/created-at 1725906702061
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 12
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [512 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bba92dc0-6ed9-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [152 520]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725906690806
+:italic false
+:text "KPI - Key Performance Indicators"}}
+:block/updated-at 1725906702061} 
+{:block/created-at 1725911716916
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 13
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [587 87]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6f622f50-6ee0-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [800 896]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:nonce 1725909569339
+:italic false
+:text "What are the competition's strengths?\n- Value added (Amazon Prime)"}}
+:block/updated-at 1725911716916})
+:pages (
+{:block/uuid #uuid "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66df3b30-9cfd-4a08-8494-c1c9c80c40e8"
+:name "brainstorm - competitor analysis"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("7bd8e250-6ed7-11ef-abb0-e1999fc6daa3" "ec34c500-6ed7-11ef-abb0-e1999fc6daa3" "17192590-6ed8-11ef-abb0-e1999fc6daa3" "452b4670-6ed8-11ef-abb0-e1999fc6daa3" "395e88b0-6ed9-11ef-abb0-e1999fc6daa3" "4768bde0-6ed9-11ef-abb0-e1999fc6daa3" "67051680-6ed9-11ef-abb0-e1999fc6daa3" "720b0c60-6ed9-11ef-abb0-e1999fc6daa3" "76e9ff20-6ed9-11ef-abb0-e1999fc6daa3" "8be95ce0-6ed9-11ef-abb0-e1999fc6daa3" "a3956410-6ed9-11ef-abb0-e1999fc6daa3" "aff1c230-6ed9-11ef-abb0-e1999fc6daa3" "bba92dc0-6ed9-11ef-abb0-e1999fc6daa3" "6f622f50-6ee0-11ef-abb0-e1999fc6daa3")}}
+:block/updated-at 1725911716916
+:block/created-at 1725905712699
+:block/type "whiteboard"
+:block/name "brainstorm - competitor analysis"
+:block/original-name "brainstorm - competitor analysis"})}

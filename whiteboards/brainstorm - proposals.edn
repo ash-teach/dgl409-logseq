@@ -1,0 +1,105 @@
+{:blocks (
+{:block/created-at 1725904834782
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [940 548]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "131de040-6ed1-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [240 56]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3050-0225-4c49-b12e-1f38680ebe79"
+:nonce 1725902972384
+:italic false
+:text "What is a proposal?\n- Project summary (a hook)\n- Competitive analysis (what does the marketplace look like?)\n- KPI (Key Performance Indicators)\n- Presentation of ideas\n- Scope of work\n- Definition of goals\n- Resources\n- Timeline / deadlines\n- Budget\n- User personas\n- Moodboards\n- Wireframes\n- Sitemap"}}
+:block/updated-at 1725904834782} 
+{:block/created-at 1725904019831
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 0
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [702 164]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4cbb0580-6ed1-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [776 456]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3050-0225-4c49-b12e-1f38680ebe79"
+:nonce 1725903068927
+:italic false
+:text "Why a proposal?\n- To convince someone\n- To present a solution to a problem\n- Response to an RFP (Request for Proposals)"}}
+:block/updated-at 1725904019831} 
+{:block/created-at 1725903969705
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [1361 318]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f7338130-6ed2-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [200 640]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df3050-0225-4c49-b12e-1f38680ebe79"
+:nonce 1725903784626
+:italic false
+:text "An MVP is:\n- Polished\n- Viable!\n- Stand on it's own in the marketplace\n\nAn MVP is not:\n- A demo (because it should be a legitimate product\n- A beta (because it's past the stage where developers would be looking for critical bugs)"}}
+:block/updated-at 1725903969705})
+:pages (
+{:block/uuid #uuid "66df3050-0225-4c49-b12e-1f38680ebe79"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66df3050-0225-4c49-b12e-1f38680ebe79"
+:name "66df3050-0225-4c49-b12e-1f38680ebe79"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("4cbb0580-6ed1-11ef-abb0-e1999fc6daa3" "131de040-6ed1-11ef-abb0-e1999fc6daa3" "f7338130-6ed2-11ef-abb0-e1999fc6daa3")}}
+:block/updated-at 1725904834782
+:block/created-at 1725902928597
+:block/type "whiteboard"
+:block/name "brainstorm - proposals"
+:block/original-name "brainstorm - proposals"})}

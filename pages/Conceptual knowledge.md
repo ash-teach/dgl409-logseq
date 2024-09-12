@@ -1,0 +1,4 @@
+- The inter-relationships among the basic elements within a larger structure that enable them to function together
+	- Knowledge of classification
+	- Knowledge of principles and generalizations
+	- Knowledge of theories, models and structures

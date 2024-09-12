@@ -1,0 +1,77 @@
+{:blocks (
+{:block/created-at 1725900569400
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 0
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [870 49]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b880e980-6eca-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [152 144]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df2578-46b3-42ad-b236-444e4c9ec992"
+:nonce 1725900243280
+:italic false
+:text "List all technologies / tools that you are comfortable with"}}
+:block/updated-at 1725900569400} 
+{:block/created-at 1725900567565
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "text"
+:size [1383 126]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "52b62560-6ecb-11ef-abb0-e1999fc6daa3"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [144 520]
+:lineHeight 1.2
+:fontSize 32
+:parentId "66df2578-46b3-42ad-b236-444e4c9ec992"
+:nonce 1725900501978
+:italic false
+:text "Consider *past*: incomplete projects, projects to be improved, projects left by the wayside\nConsider *friction*: what product/service do you wish *you* had access to?\nConsider *career*: what project would be most helpful to your future career?"}}
+:block/updated-at 1725900567565})
+:pages (
+{:block/uuid #uuid "66df2578-46b3-42ad-b236-444e4c9ec992"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66df2578-46b3-42ad-b236-444e4c9ec992"
+:name "66df2578-46b3-42ad-b236-444e4c9ec992"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("b880e980-6eca-11ef-abb0-e1999fc6daa3" "52b62560-6ecb-11ef-abb0-e1999fc6daa3")}}
+:block/updated-at 1725900569400
+:block/created-at 1725900152437
+:block/type "whiteboard"
+:block/name "66df2578-46b3-42ad-b236-444e4c9ec992"
+:block/original-name "66df2578-46b3-42ad-b236-444e4c9ec992"})}

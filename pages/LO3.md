@@ -1,0 +1,1 @@
+- synthesize and apply skills and knowledge acquired to date in the completion of a capstone project

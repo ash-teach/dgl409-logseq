@@ -1,0 +1,4 @@
+- Breaking material into its constituent parts and detecting how the parts relate to one another and to an overall structure or purpose
+	- Differentiating
+	- Organizing
+	- Attributing

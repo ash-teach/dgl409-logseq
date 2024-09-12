@@ -1,0 +1,18 @@
+- Reference: [A product designer's guide to competitive analysis](https://www.toptal.com/product-managers/product-consultant/product-designer-guide-to-competitive-analysis)
+- Intent: Provide a framework for them to write their competitor analysis.
+- Explain a competitor analysis. Talk through an example.
+- Exercise - pair students and choose and app/service they're familiar with
+	- Create a matrix and fill it out for 3 competitors
+		- Digital product name
+		- Website URL:
+		- Web app or mobile app:
+		- If mobile app: # of downloads
+		- If mobile app: supported platforms
+		- App developer:
+		- Cost:
+	- Time on market:
+	- Main features:
+	- Strengths:
+	- Weaknesses:
+	- 2 or 3 screenshots of website/app:
+	- Conclude the competitor analysis with a short paragraph about the opportunity. It should explain where our app can fit in the marketplace.

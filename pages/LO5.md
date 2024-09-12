@@ -1,0 +1,1 @@
+- organize and lead team initiatives towards final presentation of capstone projects at an annual showcase event

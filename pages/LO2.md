@@ -1,0 +1,1 @@
+- research and prepare personal learning objectives for self-directed study related to the student’s preferred specialty

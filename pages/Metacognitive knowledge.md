@@ -1,0 +1,4 @@
+- Knowledge of cognition in general as well as awareness of one's own cognition
+	- Strategic knowledge
+	- Cognitive tasks, including appropriate contextual and conditional knowledge
+	- Self-knowledge
