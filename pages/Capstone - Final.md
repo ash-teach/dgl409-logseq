@@ -2,13 +2,17 @@
 	- The capstone final is a feature complete and polished version of the capstone project.
 - # Requirements
 	- The student must demonstrate a correct understanding of project management principles through submission of project management records, including clear task break downs and time tracking. Furthermore, a backlog, or collection of deprioritized tasks can serve to communicate an understanding of requirements-oriented development and strategic decision-making.
-	- The student must demonstrate effective application of taught skills by documenting how the development key capstone project features were drawn from learned techniques.
-	- The student must demonstrate synthesis of techniques by documenting how the development of key capstone project features met student-defined learning objectives.
-	- The student must demonstrate a fulsome understanding of audience needs by producing professional and effective documentation.
+	- The student must demonstrate effective application of taught skills by documenting how the development of key capstone user-centred project features were drawn from learned techniques and how they support industry expectations and standards.
+	- The student must demonstrate synthesis of techniques by documenting how the development of key capstone user-centred project features met student-defined learning objectives.
+	- The student must demonstrate a fulsome understanding of audience needs, and management needs by producing professional and effective documentation.
 - # Checklist
 	- Complete project, publicly hosted
 	- Complete codebase, with documentation, publicly hosted
 	- Toggle report
 	- User testing report
 - # Rubric
-	-
+- # Workshop notes
+	- User-centred product?
+	- Mixing of product and project
+	- Who is the audience (bullet 4)?
+	- What does #2 look like?
