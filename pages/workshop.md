@@ -1,0 +1,12 @@
+# Lecture 4 - project proposal workshop
+	- **Status**: Better-than-rough drafts for all description-oriented sections of the proposal, with work yet to be started on timelines and tasks.
+	- **Intent**: Informally present progress to in-class group, focusing on work recently completed and any changes in direction or focus.
+	- ## What type of feedback do you want?
+		- Identifying gaps in requirements or fuzzy logic
+		- Be critical, but respectful
+		- Technical feedback - what haven't I thought of?
+		- From a user perspective - what will the user experience be like?
+		- Feedback should be action-oriented
+	- ## What type of actions do you hope to take?
+		- Make sure you take clear action-oriented notes - ask clarifying questions
+		-

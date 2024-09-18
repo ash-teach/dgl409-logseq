@@ -1,0 +1,15 @@
+# Description
+	- Write granular tasks that identify specific actions to be taken, especially for more technical tasks.
+- # Process
+	- SMART tasks:
+		- **Specific** - Could someone else with equivalent knowledge be expected to complete this task?
+		- **Measurable** - Avoid quality - focus on the requirements defined by previous tasks, or by the project.
+		- **Achievable** - Is it specific, measurable and time-bound - and can it be completed within the bounds of the project / course.
+		- **Relevant** - Ask yourself this question everytime you engage with a new task: Is it still relevant?
+		- **Time-bound** - Draw a line in the sand - write the best time estimates you can with the knowledge you have.
+- # Examples
+	- Set-up Node.js and npm for <*specific configurations*>. Create project structure and install dependencies to set up environment and variables. Complete by Monday 23rd. (1 day)
+	- Front-end development: write HTML structure <*according to need*>, then write CSS to match. CSS can then be used to support development of further HTML pages.
+		- Write structural HTML for <*choose a page that has some reusable components*> with lorem ipsum. (1 hour)
+		- Write styling and link CSS for <*choose a page that has some reusable components*>. (2 hours)
+		- Write content for <*choose a page that has some reusable components*>

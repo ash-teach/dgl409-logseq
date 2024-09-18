@@ -1,0 +1,19 @@
+# Description
+	- Each milestone includes a class presentation to communicate work completed. Presentations become increasingly more formal and structured as the semester progresses, with initial presentations being treated more like a workshop / conversation, and later presentations being treated more like client presentations and critiques.
+- # Requirements
+	- The student demonstrates knowledge of effective presentation techniques, including use of presentation materials, appropriate speech and body language.
+	- The student demonstrates knowledge of effective documentation techniques by capturing and presenting critical aspects of product development tasks up to the milestone deadline.
+	- The student demonstrates self-knowledge by critically reflecting on their product development practice.
+	- The student demonstrates strategic thinking in the context of the development of their product by critically analyzing their process and activities and identifying successes and mitigating potential risks.
+- # Checklist
+	- Presentation materials
+		- Slidedeck
+		- Script (should not be read, and need not be memorized, but demonstrates forethought and planning)
+		- Anticipated questions
+	- 15-minute presentation
+		- Project summary (elevator pitch?)
+		- Work completed to date
+		- Status of project
+		- Demonstration (depending on milestone...)
+		- Work to be completed
+		- Risks to be mitigated

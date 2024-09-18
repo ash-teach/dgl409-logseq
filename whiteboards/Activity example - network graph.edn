@@ -1,0 +1,495 @@
+{:blocks (
+{:block/content "App features and goals and tech"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/uuid #uuid "66e87515-72b0-4e28-88e8-3bb2b897936e"} 
+{:block/created-at 1726510649674
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "66e87515-72b0-4e28-88e8-3bb2b897936e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.690101623535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "347ba570-7457-11ef-9094-4f83739e61c8"
+:noFill false
+:point [184 288]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726510336476}}
+:block/updated-at 1726510649674} 
+{:block/content "Writing proposal"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e87515-72b0-4e28-88e8-3bb2b897936e"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/uuid #uuid "66e87520-6258-48b2-91bd-ed9c9955ee34"} 
+{:block/created-at 1726510686675
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "66e87520-6258-48b2-91bd-ed9c9955ee34"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.67925262451172]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "46e51610-7457-11ef-9094-4f83739e61c8"
+:noFill false
+:point [616 344]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726510367537}}
+:block/updated-at 1726510686675} 
+{:block/content "Set up environment"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e87520-6258-48b2-91bd-ed9c9955ee34"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/uuid #uuid "66e87529-f0ec-4806-87a6-d0932c503981"} 
+{:block/created-at 1726510718070
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "66e87529-f0ec-4806-87a6-d0932c503981"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.67925262451172]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4c4e4770-7457-11ef-9094-4f83739e61c8"
+:noFill false
+:point [616 416]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726510376479}}
+:block/updated-at 1726510718070} 
+{:block/content "Implement wireframes"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e87529-f0ec-4806-87a6-d0932c503981"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/uuid #uuid "66e8753d-3098-4e6e-bd19-ed683f33a645"} 
+{:block/created-at 1726511900415
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "66e8753d-3098-4e6e-bd19-ed683f33a645"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.67925262451172]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "51a37ba0-7457-11ef-9094-4f83739e61c8"
+:noFill false
+:point [1040 592]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726510385462}}
+:block/updated-at 1726511900415} 
+{:block/content "Implementing Firestone"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e8753d-3098-4e6e-bd19-ed683f33a645"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/uuid #uuid "66e8755c-8724-43a2-bfeb-2ccd544fe8f3"} 
+{:block/created-at 1726511900415
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "66e8755c-8724-43a2-bfeb-2ccd544fe8f3"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.690101623535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5a628ec0-7457-11ef-9094-4f83739e61c8"
+:noFill false
+:point [1472 656]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726510400412}}
+:block/updated-at 1726511900415} 
+{:block/content "Implementing user profiles"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e8755c-8724-43a2-bfeb-2ccd544fe8f3"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/uuid #uuid "66e87570-6d02-49b3-8b2b-d86b2c897dbd"} 
+{:block/created-at 1726511900415
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "66e87570-6d02-49b3-8b2b-d86b2c897dbd"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.690101623535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6c0ea2d0-7457-11ef-9094-4f83739e61c8"
+:noFill false
+:point [1872 736]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726510430007}}
+:block/updated-at 1726511900415} 
+{:block/content "Implement user topics"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e87570-6d02-49b3-8b2b-d86b2c897dbd"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/uuid #uuid "66e87591-3900-456f-8cc2-f6c90c9e73c9"} 
+{:block/created-at 1726511900415
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "66e87591-3900-456f-8cc2-f6c90c9e73c9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.690081879027765]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "851fdf50-7457-11ef-9094-4f83739e61c8"
+:noFill false
+:point [1880 824]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726510472096}}
+:block/updated-at 1726511900415} 
+{:block/content "Integrate API for chat translation"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e87591-3900-456f-8cc2-f6c90c9e73c9"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/uuid #uuid "66e875aa-0499-4bb5-a6a5-8e234ceebfc8"} 
+{:block/created-at 1726511914745
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "66e875aa-0499-4bb5-a6a5-8e234ceebfc8"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.67925262451172]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "927e9240-7457-11ef-9094-4f83739e61c8"
+:noFill false
+:point [2272 984]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726510494351}}
+:block/updated-at 1726511914745} 
+{:block/content "Testing MVP"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e875aa-0499-4bb5-a6a5-8e234ceebfc8"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/properties 
+{}
+:block/uuid #uuid "66e875c0-9f52-4a60-aaa5-c55abdce1738"} 
+{:block/created-at 1726511914745
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "66e875c0-9f52-4a60-aaa5-c55abdce1738"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.69007474730355]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9aa535f0-7457-11ef-9094-4f83739e61c8"
+:noFill false
+:point [2664 1080]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726510508111}}
+:block/updated-at 1726511914745} 
+{:block/content "Wireframes"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e875c0-9f52-4a60-aaa5-c55abdce1738"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/uuid #uuid "66e87b1c-3dab-4020-a70b-91b55ed90d59"} 
+{:block/created-at 1726511926622
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "66e87b1c-3dab-4020-a70b-91b55ed90d59"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.679265477885224]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d38433f0-745a-11ef-9094-4f83739e61c8"
+:noFill false
+:point [624 488]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726511891695}}
+:block/updated-at 1726511926622} 
+{:block/content "Implement user chat"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e87b1c-3dab-4020-a70b-91b55ed90d59"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/uuid #uuid "66e87b2a-475c-48fa-8ec1-2b24111de8b9"} 
+{:block/created-at 1726511926622
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 10
+:scale [1 1]
+:pageId "66e87b2a-475c-48fa-8ec1-2b24111de8b9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.679265477885224]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "de597ce0-745a-11ef-9094-4f83739e61c8"
+:noFill false
+:point [1888 896]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726511909866}}
+:block/updated-at 1726511926622} 
+{:block/content "Documenting MVP"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e87b2a-475c-48fa-8ec1-2b24111de8b9"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/uuid #uuid "66e87b3e-918e-4e39-b495-6d2e0bce019e"} 
+{:block/created-at 1726511957004
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "66e87b3e-918e-4e39-b495-6d2e0bce019e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [1544 40.690101623535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ea81aba0-745a-11ef-9094-4f83739e61c8"
+:noFill false
+:point [1520 1144]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726511930529}}
+:block/updated-at 1726511957004} 
+{:block/content "The list of tasks below represent work to be done from project inception to MVP."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e87b3e-918e-4e39-b495-6d2e0bce019e"}
+:block/parent 
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"}
+:block/properties 
+{}
+:block/uuid #uuid "66e87bed-e3b0-4008-bf41-8fbd4106c501"} 
+{:block/created-at 1726512252752
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 12
+:scale [1 1]
+:pageId "66e87bed-e3b0-4008-bf41-8fbd4106c501"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [840.0112848533252 270.73996767918015]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "289f9e10-745b-11ef-9094-4f83739e61c8"
+:noFill false
+:point [183.82054665064084 -23.334555487685293]
+:parentId "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:collapsedHeight 0
+:nonce 1726512034613}}
+:block/updated-at 1726512252752} 
+{:block/content "Tasks have been arranged in order of dependency from left to right with concurrent task placed in parallel."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e87bed-e3b0-4008-bf41-8fbd4106c501"}
+:block/parent 
+{:block/uuid #uuid "66e87bed-e3b0-4008-bf41-8fbd4106c501"}
+:block/properties 
+{}
+:block/uuid #uuid "66e87c0a-c32c-421a-b6d2-26ab75c791ea"} 
+{:block/content "This provides a loose understanding of time commitment, if one considers the scale of each of these tasks, and the time available throughout each week."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e87c0a-c32c-421a-b6d2-26ab75c791ea"}
+:block/parent 
+{:block/uuid #uuid "66e87bed-e3b0-4008-bf41-8fbd4106c501"}
+:block/properties 
+{}
+:block/uuid #uuid "66e87c0d-37d7-4bc4-b646-e21be9748cbf"} 
+{:block/content "Consider grouping tasks that can be completed in rapid sequence, or in parallel, to ensure that you can make progress even when working in short bursts a few times a week."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66e87c0d-37d7-4bc4-b646-e21be9748cbf"}
+:block/parent 
+{:block/uuid #uuid "66e87bed-e3b0-4008-bf41-8fbd4106c501"}
+:block/properties 
+{}
+:block/uuid #uuid "66e87c40-a52d-4f0e-99a6-84d85537f7e7"})
+:pages (
+{:block/uuid #uuid "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66e873cd-e24b-4cb1-a736-89bbe88f0764"
+:name "activity example - network graph"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("347ba570-7457-11ef-9094-4f83739e61c8" "46e51610-7457-11ef-9094-4f83739e61c8" "4c4e4770-7457-11ef-9094-4f83739e61c8" "51a37ba0-7457-11ef-9094-4f83739e61c8" "5a628ec0-7457-11ef-9094-4f83739e61c8" "6c0ea2d0-7457-11ef-9094-4f83739e61c8" "851fdf50-7457-11ef-9094-4f83739e61c8" "927e9240-7457-11ef-9094-4f83739e61c8" "9aa535f0-7457-11ef-9094-4f83739e61c8" "d38433f0-745a-11ef-9094-4f83739e61c8" "de597ce0-745a-11ef-9094-4f83739e61c8" "ea81aba0-745a-11ef-9094-4f83739e61c8" "289f9e10-745b-11ef-9094-4f83739e61c8")}}
+:block/updated-at 1726512252752
+:block/created-at 1726510029237
+:block/type "whiteboard"
+:block/name "activity example - network graph"
+:block/original-name "activity example - network graph"})}

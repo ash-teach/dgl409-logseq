@@ -1,0 +1,14 @@
+# Do
+	- Use a [README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) to clearly articulate your project's purpose.
+	- Apply [markdown formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to increase readability.
+	- Provide directions for a developer audience (i.e. install and usage instructions).
+	- Acknowledge contributions from other [people](https://allcontributors.org/) or [projects](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
+	- Use [branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository) to manage workflow.
+	- Write descriptive [Git commits](https://github.com/git-guides/git-commit) following the recommended approach.
+	- Carefully examine your repository and documentation for mistakes and typos.
+	- Commit often!
+- # Don't
+	- Include [unnecessary configuration folders and files](https://github.com/github/gitignore) in your repo.
+	- Copy [large swaths of code](https://github.com/Jan-elle-Chan/409Capstone) (even licensed code!) into your repository without context.
+	- Name your repository something generic, like [409-project](https://github.com/nic-dgl409-wi24/dgl-409-capstone-project-narendrachn).
+	- Ignore documentation!
