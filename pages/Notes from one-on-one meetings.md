@@ -1,0 +1,34 @@
+tags:: #2024fa
+status:: brief notes, communicated verbally to students
+
+- Juan - meal reservation system for retirement / nursing home - PHP, HTML, JavaScript
+	- Learning outcome - User models data management
+- Suhail - scheduling app for organizing employees and workplace - React Native, Flask, Firebase
+	- Learning outcome - synthesis of prior knowledge?
+	- Learning outcome - learning outcomes (research, apply, and document)
+	- MVP - Employers can schedule and employees can view
+- Abhiram - LanGroove - language learning platform with some social elements (users can chat)
+	- React Native, TypeScript,
+	- Goal: Publish on Playstore
+	- Learning outcome - Abhiram to send
+- Manasvi - Wedding planner with vendors and registered couples
+	- Tech - HTML, CSS, JS and PHP
+	- Learning outcomes: Live chat with PHP -  Manasvi to send
+- Harmen - PawMatch - Pet adoption system
+	- Tech: HTML/CSS/Bootstrap, JS, PHP
+	- Learning outcomes: Research, assessment and success measure - to be emailed
+- Yogesh - College social app to connect students for discussions etc
+	- Tech: Postgres, React, NodeJS, Tailwind
+	- Learning outcomes - research and measurement for both
+- John - Movie trailer app for deciding what to watch
+	- Tech: NodeJS, JS
+	- Learning outcomes - Specifics to be emailed
+- Hiren - Portfolio website - prior projects
+	- Tech: React, Context API, ScrollDigger,
+	- Learning outcome: Send statement and demonstration
+- Saif - Daycare website
+	- Tech: Primarily front-end
+	- Learning outcomes: user research during feature stage with daycare - email to come
+- Viren - Portfolio website with UX focus
+	- Tech: HTML, CSS, JavaScript
+	- Learning outcome - research into CSS effects - will email

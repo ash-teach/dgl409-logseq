@@ -1,0 +1,12 @@
+# Description
+	- The presentation report is a written report that summarizes peer, instructor and student (persona) feedback generated during and after the student's milestone presentation.
+- # Requirements
+	- The student must demonstrate an understanding of the impact on project scope of any changes recommended through presentation feedback. If any recommended changes to be adopted would  affect the project timeline this is acknowledged and accounted for in the student's report.
+	- The student must demonstrate a capacity to reflect on and prioritize peer and instructor feedback in the context of their project requirements scope.
+- # Checklist
+	- Well-formatted document that includes:
+		- A summary of all peer and instructor feedback
+		- A discussion of how peer and instructor feedback may influence the project going forward
+		- A discussion of potential new risks to be mitigated
+		- An appendix containing all transcribed peer and instructor feedback
+	- [OPTIONAL] An updated Gantt chart and task list capturing the recommended changes

@@ -1,4 +1,8 @@
-# Schedule
+subtitle:: writing a proposal pt 1
+tags:: 2024fa
+topics:: elevator pitches, project brainstorm, proposal summary
+
+- # Schedule
 	- DONE Class welcome
 	  :LOGBOOK:
 	  CLOCK: [2024-09-09 Mon 08:34:28]--[2024-09-09 Mon 08:37:13] =>  00:02:45
@@ -9,14 +13,14 @@
 	  CLOCK: [2024-09-09 Mon 08:37:16]--[2024-09-09 Mon 08:37:39] =>  00:00:23
 	  CLOCK: [2024-09-09 Mon 08:39:59]--[2024-09-09 Mon 09:42:18] =>  01:02:19
 	  :END:
-	- TODO Project idea roundtable
+	- DONE Project idea roundtable
 	  :LOGBOOK:
 	  CLOCK: [2024-09-09 Mon 09:42:19]--[2024-09-09 Mon 10:04:35] =>  00:22:16
 	  :END:
 	- DONE Proposal overview
-	- TODO Project summary
-	- TODO Client summary
-	- DOING Competitive analysis
+	- CANCELED Project summary
+	- CANCELED Client summary
+	- CANCELED Competitive analysis
 	  :LOGBOOK:
 	  CLOCK: [2024-09-09 Mon 12:05:22]
 	  :END:

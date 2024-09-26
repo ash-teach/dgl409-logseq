@@ -8,7 +8,7 @@
 - # Checklist
 	- Complete project, publicly hosted
 	- Complete codebase, with documentation, publicly hosted
-	- Toggle report
+	- Toggl report
 	- User testing report
 - # Rubric
 - # Workshop notes

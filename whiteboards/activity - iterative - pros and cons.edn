@@ -1,0 +1,433 @@
+{:blocks (
+{:block/content "What are the pros and cons of the iterative method?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/uuid #uuid "66f57cdd-597c-4831-ad80-2c605ea6c56f"} 
+{:block/created-at 1727364317543
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "66f57cdd-597c-4831-ad80-2c605ea6c56f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 65]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "887c6670-7c1b-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [400 208]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727364316761}}
+:block/updated-at 1727364317543} 
+{:block/content "PROS"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f57cdd-597c-4831-ad80-2c605ea6c56f"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/uuid #uuid "66f59d56-188e-4d74-ab35-4774a4ceba55"} 
+{:block/created-at 1727372636607
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "66f59d56-188e-4d74-ab35-4774a4ceba55"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 40.82681723762898]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e292b520-7c2e-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [272 336]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727372628402}}
+:block/updated-at 1727372636607} 
+{:block/content "CONS"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59d56-188e-4d74-ab35-4774a4ceba55"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/uuid #uuid "66f59d61-17e1-4995-8be4-4de235cb539a"} 
+{:block/created-at 1727372647055
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "66f59d61-17e1-4995-8be4-4de235cb539a"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [120 40.8267707824707]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ea071fd0-7c2e-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [928 312]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727372641024}}
+:block/updated-at 1727372647055} 
+{:block/content "Scalable - meets evolving needs"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59d61-17e1-4995-8be4-4de235cb539a"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/uuid #uuid "66f59d98-f34d-4c38-b726-493551d97483"} 
+{:block/created-at 1727372701408
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "66f59d98-f34d-4c38-b726-493551d97483"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.8203125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f3025190-7c2e-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [264 432]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727372656059}}
+:block/updated-at 1727372701408} 
+{:block/content "Understanding full budget - time and dollars"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59d98-f34d-4c38-b726-493551d97483"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/uuid #uuid "66f59dbb-4c4f-4eb3-99e3-bc1999e4aa08"} 
+{:block/created-at 1727372737721
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "66f59dbb-4c4f-4eb3-99e3-bc1999e4aa08"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.8203125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "18662830-7c2f-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [936 384]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727372718745}}
+:block/updated-at 1727372737721} 
+{:block/content "Scope creep"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59dbb-4c4f-4eb3-99e3-bc1999e4aa08"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/uuid #uuid "66f59dcd-f5ad-426e-93a5-18e8b3eebc40"} 
+{:block/created-at 1727372756377
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "66f59dcd-f5ad-426e-93a5-18e8b3eebc40"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [192 40.826847076416016]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "288b9c40-7c2f-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [936 456]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727372745907}}
+:block/updated-at 1727372756377} 
+{:block/content "Provides opportunities for regular analysis"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59dcd-f5ad-426e-93a5-18e8b3eebc40"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/uuid #uuid "66f59e38-70d8-4f7d-92e3-eb5fd0c2593d"} 
+{:block/created-at 1727372860356
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "66f59e38-70d8-4f7d-92e3-eb5fd0c2593d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "61183be0-7c2f-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [256 504]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727372840724}}
+:block/updated-at 1727372860356} 
+{:block/content "Difficult to identify \"complete\""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59e38-70d8-4f7d-92e3-eb5fd0c2593d"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/uuid #uuid "66f59e52-ff17-466c-81e0-dffdb69c5cb4"} 
+{:block/created-at 1727372888242
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "66f59e52-ff17-466c-81e0-dffdb69c5cb4"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [280 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "738a10f0-7c2f-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [936 520]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727372871707}}
+:block/updated-at 1727372888242} 
+{:block/content "Early detection of issues / mitigation of risks - regular testing"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59e52-ff17-466c-81e0-dffdb69c5cb4"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/properties 
+{}
+:block/uuid #uuid "66f59e9a-d919-4aa6-8a32-757c92736d54"} 
+{:block/created-at 1727372977873
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "66f59e9a-d919-4aa6-8a32-757c92736d54"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 64.81770324707031]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a25d10d0-7c2f-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [256 560]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727372950226}}
+:block/updated-at 1727372977873} 
+{:block/content "Flexible development"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59e9a-d919-4aa6-8a32-757c92736d54"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/uuid #uuid "66f59edd-6e14-492f-9493-57686fb99339"} 
+{:block/created-at 1727373024300
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "66f59edd-6e14-492f-9493-57686fb99339"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.8203125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c79802b0-7c2f-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [248 656]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727373012619}}
+:block/updated-at 1727373024300} 
+{:block/content "Good for big projects"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59edd-6e14-492f-9493-57686fb99339"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/uuid #uuid "66f59ef6-032a-41e7-b4ae-3c7168bbeaae"} 
+{:block/created-at 1727373207085
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 10
+:scale [1 1]
+:pageId "66f59ef6-032a-41e7-b4ae-3c7168bbeaae"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.8203125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d60b8100-7c2f-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [576 800]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727373037236}}
+:block/updated-at 1727373207085} 
+{:block/content "Allows for refinement of user needs"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59ef6-032a-41e7-b4ae-3c7168bbeaae"}
+:block/parent 
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"}
+:block/uuid #uuid "66f59f1b-371a-40c3-9e44-3a1d184a5c89"} 
+{:block/created-at 1727373087155
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "66f59f1b-371a-40c3-9e44-3a1d184a5c89"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.8203125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ea995840-7c2f-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [264 728]
+:parentId "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:collapsedHeight 0
+:nonce 1727373071410}}
+:block/updated-at 1727373087155})
+:pages (
+{:block/uuid #uuid "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66f57cd4-c5a5-47f5-83ba-af0b7a4edece"
+:name "activity - iterative - pros and cons"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("887c6670-7c1b-11ef-9a5d-89288ad6543e" "e292b520-7c2e-11ef-9a5d-89288ad6543e" "ea071fd0-7c2e-11ef-9a5d-89288ad6543e" "f3025190-7c2e-11ef-9a5d-89288ad6543e" "18662830-7c2f-11ef-9a5d-89288ad6543e" "288b9c40-7c2f-11ef-9a5d-89288ad6543e" "61183be0-7c2f-11ef-9a5d-89288ad6543e" "738a10f0-7c2f-11ef-9a5d-89288ad6543e" "a25d10d0-7c2f-11ef-9a5d-89288ad6543e" "c79802b0-7c2f-11ef-9a5d-89288ad6543e" "d60b8100-7c2f-11ef-9a5d-89288ad6543e" "ea995840-7c2f-11ef-9a5d-89288ad6543e")}}
+:block/journal? false
+:block/updated-at 1727373207085
+:block/created-at 1727364308704
+:block/type "whiteboard"
+:block/name "activity - iterative - pros and cons"
+:block/original-name "activity - iterative - pros and cons"})}

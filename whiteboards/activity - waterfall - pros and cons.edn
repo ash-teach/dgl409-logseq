@@ -1,0 +1,396 @@
+{:blocks (
+{:block/content "What are the pros and cons of the \"traditional\" or \"waterfall\" approach?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/parent 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/uuid #uuid "66f57cbe-00e2-495d-8759-6e2b1d5a457a"} 
+{:block/created-at 1727364289405
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "66f57cbe-00e2-495d-8759-6e2b1d5a457a"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 65]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "761b0c20-7c1b-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [448 144]
+:parentId "66f57c9e-1880-46f1-880b-0975eca530ad"
+:collapsedHeight 0
+:nonce 1727364286065}}
+:block/updated-at 1727364289405} 
+{:block/content "Wrong or clear requirements => failed product, loss of productivity"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f57cbe-00e2-495d-8759-6e2b1d5a457a"}
+:block/parent 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/uuid #uuid "66f58ee5-f6e5-4b96-9185-c6c47e50a74f"} 
+{:block/created-at 1727368991371
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "66f58ee5-f6e5-4b96-9185-c6c47e50a74f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 64.81770324707031]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3e166030-7c26-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [960 352]
+:parentId "66f57c9e-1880-46f1-880b-0975eca530ad"
+:collapsedHeight 0
+:nonce 1727368916649}}
+:block/updated-at 1727368991371} 
+{:block/content "Sequential dependency"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58ee5-f6e5-4b96-9185-c6c47e50a74f"}
+:block/parent 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/uuid #uuid "66f58f0d-62ef-4815-8cb1-e919d4df0d87"} 
+{:block/created-at 1727369317800
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "66f58f0d-62ef-4815-8cb1-e919d4df0d87"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.8203125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5fd91b40-7c26-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [712 552]
+:parentId "66f57c9e-1880-46f1-880b-0975eca530ad"
+:collapsedHeight 0
+:nonce 1727368973286}}
+:block/updated-at 1727369317800} 
+{:block/content "CONS"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58f0d-62ef-4815-8cb1-e919d4df0d87"}
+:block/parent 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/uuid #uuid "66f58f15-31e9-4fec-b85f-d29648276424"} 
+{:block/created-at 1727368981821
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "66f58f15-31e9-4fec-b85f-d29648276424"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.8203125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "63d61270-7c26-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [968 256]
+:parentId "66f57c9e-1880-46f1-880b-0975eca530ad"
+:collapsedHeight 0
+:nonce 1727368979737}}
+:block/updated-at 1727368981821} 
+{:block/content "PROS"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58f15-31e9-4fec-b85f-d29648276424"}
+:block/parent 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/uuid #uuid "66f58f18-fbbb-4b76-a34c-1a8eaa853416"} 
+{:block/created-at 1727368989385
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "66f58f18-fbbb-4b76-a34c-1a8eaa853416"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.8203125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "65eee050-7c26-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [184 264]
+:parentId "66f57c9e-1880-46f1-880b-0975eca530ad"
+:collapsedHeight 0
+:nonce 1727368983445}}
+:block/updated-at 1727368989385} 
+{:block/content "Can be efficient / fast in the right circumstances"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58f18-fbbb-4b76-a34c-1a8eaa853416"}
+:block/parent 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/uuid #uuid "66f58f3b-f691-4dc0-9066-a8c409289309"} 
+{:block/created-at 1727369024015
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "66f58f3b-f691-4dc0-9066-a8c409289309"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "74350d10-7c26-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [184 336]
+:parentId "66f57c9e-1880-46f1-880b-0975eca530ad"
+:collapsedHeight 0
+:nonce 1727369007281}}
+:block/updated-at 1727369024015} 
+{:block/content "Experienced team"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58f3b-f691-4dc0-9066-a8c409289309"}
+:block/parent 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/uuid #uuid "66f5901a-dc60-42d1-9efe-4abb7e05d8b6"} 
+{:block/created-at 1727369276864
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "66f5901a-dc60-42d1-9efe-4abb7e05d8b6"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [208 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fd6faa90-7c26-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [360 392]
+:parentId "66f57c9e-1880-46f1-880b-0975eca530ad"
+:collapsedHeight 0
+:nonce 1727369237595}}
+:block/updated-at 1727369276864} 
+{:block/content "Well-understood product / program"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f5901a-dc60-42d1-9efe-4abb7e05d8b6"}
+:block/parent 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/uuid #uuid "66f59026-d6a6-4e54-89cc-eea240621b54"} 
+{:block/created-at 1727369279824
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "66f59026-d6a6-4e54-89cc-eea240621b54"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [304 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "00e19fd0-7c27-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [368 456]
+:parentId "66f57c9e-1880-46f1-880b-0975eca530ad"
+:collapsedHeight 0
+:nonce 1727369243433}}
+:block/updated-at 1727369279824} 
+{:block/content "Small project"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59026-d6a6-4e54-89cc-eea240621b54"}
+:block/parent 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/uuid #uuid "66f5902a-bc3c-438d-b510-368e417383e1"} 
+{:block/created-at 1727369284054
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "66f5902a-bc3c-438d-b510-368e417383e1"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [200 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "083c8f10-7c27-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [368 512]
+:parentId "66f57c9e-1880-46f1-880b-0975eca530ad"
+:collapsedHeight 0
+:nonce 1727369255846}}
+:block/updated-at 1727369284054} 
+{:block/content "Lack of continuous feedback / user / client engagement"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f5902a-bc3c-438d-b510-368e417383e1"}
+:block/parent 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/uuid #uuid "66f59060-f902-4f87-a993-329f09e2ee08"} 
+{:block/created-at 1727369316301
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "66f59060-f902-4f87-a993-329f09e2ee08"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 64.81770324707031]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "203be660-7c27-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [968 448]
+:parentId "66f57c9e-1880-46f1-880b-0975eca530ad"
+:collapsedHeight 0
+:nonce 1727369295946}}
+:block/updated-at 1727369316301} 
+{:block/content "Scope doesn't increase!"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f59060-f902-4f87-a993-329f09e2ee08"}
+:block/parent 
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"}
+:block/uuid #uuid "66f590b2-fe41-44db-ba4d-1b779e9e9e24"} 
+{:block/created-at 1727369397755
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 10
+:scale [1 1]
+:pageId "66f590b2-fe41-44db-ba4d-1b779e9e9e24"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "576b3ff0-7c27-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [184 600]
+:parentId "66f57c9e-1880-46f1-880b-0975eca530ad"
+:collapsedHeight 0
+:nonce 1727369388545}}
+:block/updated-at 1727369397755})
+:pages (
+{:block/uuid #uuid "66f57c9e-1880-46f1-880b-0975eca530ad"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66f57c9e-1880-46f1-880b-0975eca530ad"
+:name "activity - waterfall - pros and cons"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("761b0c20-7c1b-11ef-9a5d-89288ad6543e" "3e166030-7c26-11ef-9a5d-89288ad6543e" "5fd91b40-7c26-11ef-9a5d-89288ad6543e" "63d61270-7c26-11ef-9a5d-89288ad6543e" "65eee050-7c26-11ef-9a5d-89288ad6543e" "74350d10-7c26-11ef-9a5d-89288ad6543e" "fd6faa90-7c26-11ef-9a5d-89288ad6543e" "00e19fd0-7c27-11ef-9a5d-89288ad6543e" "083c8f10-7c27-11ef-9a5d-89288ad6543e" "203be660-7c27-11ef-9a5d-89288ad6543e" "576b3ff0-7c27-11ef-9a5d-89288ad6543e")}}
+:block/journal? false
+:block/updated-at 1727369397755
+:block/created-at 1727364254741
+:block/type "whiteboard"
+:block/name "activity - waterfall - pros and cons"
+:block/original-name "activity - waterfall - pros and cons"})}

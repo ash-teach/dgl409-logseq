@@ -1,4 +1,8 @@
-# Schedule
+subtitle:: creating a timeline
+tags:: 2024fa
+topics:: presentation learning outcomes, presentation prep, gantt charts, task development
+
+- # Schedule
 	- DONE Class welcome
 	  :LOGBOOK:
 	  CLOCK: [2024-09-16 Mon 08:39:46]--[2024-09-16 Mon 08:43:12] =>  00:03:26
@@ -28,3 +32,7 @@
 	  CLOCK: [2024-09-16 Mon 11:22:58]--[2024-09-16 Mon 12:15:13] =>  00:52:15
 	  :END:
 	- TODO [[Activity - Gantt chart development]]
+	  :LOGBOOK:
+	  CLOCK: [2024-09-19 Thu 10:30:09]--[2024-09-19 Thu 10:30:09] =>  00:00:00
+	  :END:
+	-

@@ -1,0 +1,35 @@
+# Overview
+	- Video game development is a branch of software development typified by collaboration across art, design and programming disciplines, often supported by project and product manager roles.
+	- In contrast to other types of software development video game development often associated with other forms of media and cultural production, such as film. In fact, many of the management processes typical in video game development draw influence from film; the notion of the video game "producer" or "executive producer" is drawn directly from film, while the traditional publisher-developer funding model of video game development is akin to the Hollywood studio model.
+	- Additionally, while video game development is certainly a viable career choice today, for many decades it was not as well-regarded. Video game developers have faced highly complex project management problems unique to their discipline, solutions for which haven't always come from well-founded research and best practices, but rather were built from the ground up - often by project management novices.
+	- All these factors have contributed to the development of a project management practice and environment unique to video games. Although today there is much overlap between video game development and software development project management practices, their respective influences are distinct.
+- # PM complexities and concerns
+	- The core requirement: Fun
+	- Publisher - developer model
+	- Optimal release window
+	- Unknown or untested hardware
+	- Art - Design - Programmingf
+	- Development team size
+	- ## Activity
+		- Identify a favourite game that one or more people in team have played
+		- Search online ([MobyGames](https://www.mobygames.com/) may be a useful resource)to find the following details:
+			- Name of developer/studio
+			- Number of employees involved in development of the game
+			- Break down (approximate - if possible) of employees per discipline
+			- Cost of development
+			- Timeline of development
+			- Name of publisher
+			- Post-mortems describing development successes and failures
+- # PM solutions and strategies
+	- Small [design/strike/skunkworks] teams and early stage buy-in
+	- Waterfall to ensure on-budget and on-time
+	- Scrum (sometimes with Kanban or Scrumban) for day-to-day
+	- Scrum of scrums
+	- Kleenex testers and NDAs
+	- Ramp-up to hiring: experienced developers
+	- Publishers: safe bets on titles
+	- ## Activity
+- # Notes
+	- TODO Improve connection between complexities and solutions (probably slidedeck with examples)
+	- TODO Improve activity outcomes (probably tie to early waterfall and iteration activities, draw directly on examples from capstone)
+	- TODO Consider moving this lecture to earlier in the semester

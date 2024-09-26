@@ -1,0 +1,720 @@
+{:blocks (
+{:block/content "What practical tools do you expect to be involved in PM activities?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f57c6b-90a0-4375-bca6-b34221bdd7ad"} 
+{:block/created-at 1727367831600
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "66f57c6b-90a0-4375-bca6-b34221bdd7ad"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 65.00001525878906]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "44301de0-7c1b-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [128 200]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727364202234}}
+:block/updated-at 1727367831600} 
+{:block/content "What processes do you expect to be involved in PM activities?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f57c6b-90a0-4375-bca6-b34221bdd7ad"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f57c8b-9778-4971-9f07-05bb2a81a601"} 
+{:block/created-at 1727368066442
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "66f57c8b-9778-4971-9f07-05bb2a81a601"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 65]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "579ccdb0-7c1b-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [784 200]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727364235527}}
+:block/updated-at 1727368066442} 
+{:block/content "Toggl"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f57c8b-9778-4971-9f07-05bb2a81a601"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58ad2-d407-45f7-8e06-386d7140c2b2"} 
+{:block/created-at 1727367920164
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "66f58ad2-d407-45f7-8e06-386d7140c2b2"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [72 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d995d6b0-7c23-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [352 376]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727367888831}}
+:block/updated-at 1727367920164} 
+{:block/content "Asana"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58ad2-d407-45f7-8e06-386d7140c2b2"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58ad6-2f2d-4346-8d59-cbae2ba8e018"} 
+{:block/created-at 1727367917972
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "66f58ad6-2f2d-4346-8d59-cbae2ba8e018"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [80 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "dc1cf6c0-7c23-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [384 504]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727367893097}}
+:block/updated-at 1727367917972} 
+{:block/content "Monday"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58ad6-2f2d-4346-8d59-cbae2ba8e018"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58ada-0f4e-42ba-aba8-7aa1d82fd550"} 
+{:block/created-at 1727367901214
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "66f58ada-0f4e-42ba-aba8-7aa1d82fd550"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [104 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "dd6ea410-7c23-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [192 456]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727367895348}}
+:block/updated-at 1727367901214} 
+{:block/content "Basecamp"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58ada-0f4e-42ba-aba8-7aa1d82fd550"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58ae7-a85a-4b7f-a9b1-60c87ba3481e"} 
+{:block/created-at 1727367915482
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "66f58ae7-a85a-4b7f-a9b1-60c87ba3481e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [104 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e5defaf0-7c23-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [424 624]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727367909463}}
+:block/updated-at 1727367915482} 
+{:block/content "Trello"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58ae7-a85a-4b7f-a9b1-60c87ba3481e"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58af2-62b7-4a48-955b-56c24393fced"} 
+{:block/created-at 1727367926396
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "66f58af2-62b7-4a48-955b-56c24393fced"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [72 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ecc9ea50-7c23-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [264 384]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727367921057}}
+:block/updated-at 1727367926396} 
+{:block/content "Excel"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58af2-62b7-4a48-955b-56c24393fced"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58b06-e33d-4428-ab6c-3bac570a85f7"} 
+{:block/created-at 1727367946052
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "66f58b06-e33d-4428-ab6c-3bac570a85f7"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [80 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f79c4d10-7c23-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [136 360]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727367939274}}
+:block/updated-at 1727367946052} 
+{:block/content "Calendar apps"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58b06-e33d-4428-ab6c-3bac570a85f7"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58b1e-16a1-4a8a-a856-db214775ff42"} 
+{:block/created-at 1727367969067
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "66f58b1e-16a1-4a8a-a856-db214775ff42"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [152 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "07576690-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [152 624]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727367965608}}
+:block/updated-at 1727367969067} 
+{:block/content "Cloud-based storage"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58b1e-16a1-4a8a-a856-db214775ff42"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/properties 
+{}
+:block/uuid #uuid "66f58b27-c3ac-428f-ae70-804cfa451b3b"} 
+{:block/created-at 1727368020383
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "66f58b27-c3ac-428f-ae70-804cfa451b3b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [200 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "09ec9060-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [112 544]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727367969960}}
+:block/updated-at 1727368020383} 
+{:block/content "Whiteboards"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58b27-c3ac-428f-ae70-804cfa451b3b"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/properties 
+{}
+:block/uuid #uuid "66f58b60-9020-4263-bd62-3dbdc15c65d7"} 
+{:block/created-at 1727368036603
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 10
+:scale [1 1]
+:pageId "66f58b60-9020-4263-bd62-3dbdc15c65d7"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [136 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2de56550-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [304 720]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727368030336}}
+:block/updated-at 1727368036603} 
+{:block/content "Post-it notes"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58b60-9020-4263-bd62-3dbdc15c65d7"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58b6a-526a-49ab-a1a3-2d239d39f914"} 
+{:block/created-at 1727368049038
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "66f58b6a-526a-49ab-a1a3-2d239d39f914"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [136 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "32124620-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [80 736]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727368037422}}
+:block/updated-at 1727368049038} 
+{:block/content "Analysis"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58b6a-526a-49ab-a1a3-2d239d39f914"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58b99-e21b-43da-a6a7-ae54d9918e68"} 
+{:block/created-at 1727368125089
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 12
+:scale [1 1]
+:pageId "66f58b99-e21b-43da-a6a7-ae54d9918e68"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [136 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4b1c56b0-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [880 376]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727368079338}}
+:block/updated-at 1727368125089} 
+{:block/content "Requirement gathering"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58b99-e21b-43da-a6a7-ae54d9918e68"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58ba0-2556-4a8c-a677-7fec16f76a7b"} 
+{:block/created-at 1727368101080
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 13
+:scale [1 1]
+:pageId "66f58ba0-2556-4a8c-a677-7fec16f76a7b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [208 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "52324db0-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [1048 456]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727368091279}}
+:block/updated-at 1727368101080} 
+{:block/content "Budget - time and dollars"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58ba0-2556-4a8c-a677-7fec16f76a7b"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58bc5-c552-4e16-8a6b-6da6b9d0584b"} 
+{:block/created-at 1727368138111
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 14
+:scale [1 1]
+:pageId "66f58bc5-c552-4e16-8a6b-6da6b9d0584b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [248 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "66d6e140-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [1064 536]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727368125937}}
+:block/updated-at 1727368138111} 
+{:block/content "Scheduling"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58bc5-c552-4e16-8a6b-6da6b9d0584b"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58bd7-69d9-471e-89c9-dde3095ac2fa"} 
+{:block/created-at 1727368219820
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 15
+:scale [1 1]
+:pageId "66f58bd7-69d9-471e-89c9-dde3095ac2fa"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [144 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "74122db0-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [1072 600]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727368148211}}
+:block/updated-at 1727368219820} 
+{:block/content "PMP certifications"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58bd7-69d9-471e-89c9-dde3095ac2fa"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58be8-e014-4780-ab9d-678313e2bd59"} 
+{:block/created-at 1727368172759
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 16
+:scale [1 1]
+:pageId "66f58be8-e014-4780-ab9d-678313e2bd59"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [168 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7a6067e0-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [328 312]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727368158586}}
+:block/updated-at 1727368172759} 
+{:block/content "Task delegation"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58be8-e014-4780-ab9d-678313e2bd59"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58c33-81c1-40f7-991b-ac380352d49e"} 
+{:block/created-at 1727368246658
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 17
+:scale [1 1]
+:pageId "66f58c33-81c1-40f7-991b-ac380352d49e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [176 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a988b3b0-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [808 488]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727368237733}}
+:block/updated-at 1727368246658} 
+{:block/content "Tracking progress"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58c33-81c1-40f7-991b-ac380352d49e"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58c5c-6984-42a8-b164-1f45ed6bd53f"} 
+{:block/created-at 1727368286801
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 18
+:scale [1 1]
+:pageId "66f58c5c-6984-42a8-b164-1f45ed6bd53f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [184 40.826820373535156]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bf97fad0-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [928 664]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727368274740}}
+:block/updated-at 1727368286801} 
+{:block/content "Communicating up and down (middleware)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66f58c5c-6984-42a8-b164-1f45ed6bd53f"}
+:block/parent 
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"}
+:block/uuid #uuid "66f58cb0-cc61-4722-87d3-7297dfa2bc3e"} 
+{:block/created-at 1727368376435
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 19
+:scale [1 1]
+:pageId "66f58cb0-cc61-4722-87d3-7297dfa2bc3e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.8203125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ef1e1e10-7c24-11ef-9a5d-89288ad6543e"
+:noFill false
+:point [872 744]
+:parentId "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:collapsedHeight 0
+:nonce 1727368354529}}
+:block/updated-at 1727368376435})
+:pages (
+{:block/uuid #uuid "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66f57c55-0484-4bc6-9954-af3f54de7bff"
+:name "activity - pm tools and processes"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("44301de0-7c1b-11ef-9a5d-89288ad6543e" "579ccdb0-7c1b-11ef-9a5d-89288ad6543e" "d995d6b0-7c23-11ef-9a5d-89288ad6543e" "dc1cf6c0-7c23-11ef-9a5d-89288ad6543e" "dd6ea410-7c23-11ef-9a5d-89288ad6543e" "e5defaf0-7c23-11ef-9a5d-89288ad6543e" "ecc9ea50-7c23-11ef-9a5d-89288ad6543e" "f79c4d10-7c23-11ef-9a5d-89288ad6543e" "07576690-7c24-11ef-9a5d-89288ad6543e" "09ec9060-7c24-11ef-9a5d-89288ad6543e" "2de56550-7c24-11ef-9a5d-89288ad6543e" "32124620-7c24-11ef-9a5d-89288ad6543e" "4b1c56b0-7c24-11ef-9a5d-89288ad6543e" "52324db0-7c24-11ef-9a5d-89288ad6543e" "66d6e140-7c24-11ef-9a5d-89288ad6543e" "74122db0-7c24-11ef-9a5d-89288ad6543e" "7a6067e0-7c24-11ef-9a5d-89288ad6543e" "a988b3b0-7c24-11ef-9a5d-89288ad6543e" "bf97fad0-7c24-11ef-9a5d-89288ad6543e" "ef1e1e10-7c24-11ef-9a5d-89288ad6543e")}}
+:block/journal? false
+:block/updated-at 1727368376435
+:block/created-at 1727364181125
+:block/type "whiteboard"
+:block/name "activity - pm tools and processes"
+:block/original-name "activity - pm tools and processes"})}

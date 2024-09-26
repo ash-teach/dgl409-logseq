@@ -1,0 +1,103 @@
+tags:: #2024fa
+status:: drafts submission for review
+
+- # Directions
+	- Send me a statement of your learning outcome that includes:
+		- A description of the research component (i.e. what you'll have to learn about to decide how to achieve your learning outcome). This should include a short justification why this particular learning outcome is a "measured risk" or stretch for you. Note that the outcome doesn't have to be programming-related.
+		  logseq.order-list-type:: number
+		- A description of the actions you expect to take (I don't need tech or tool specifics here, but I do need to know how it applies to your project).
+		  logseq.order-list-type:: number
+		- A description of how you intend to demonstrate the learning outcome (likely through some combination of the product and documentation).
+		  logseq.order-list-type:: number
+	- ## Example
+		- I'm comfortable building Android UIs via the Layout Editor, but have never built an Android UI using JetPack Compose. I will research the fundamental JetPack Compose processes and tools to get a better understanding of its use.
+		  logseq.order-list-type:: number
+		- After completing my research I'll use what I've learned to decide which elements of my UI are best supported by JetPack Compose. I will implement some or all of my UI using JetPack Compose.
+		  logseq.order-list-type:: number
+		- To demonstrate my learning, I will record the research and actions that I've taken relating to JetPack Compose in both well-defined and time-tracked tasks and through written documentation. I will report on my learning process in presentations, and in the final project submission, and will take the opportunity to reflect on my learning process and how that process will aid me in my future career.
+		  logseq.order-list-type:: number
+		- Given the above, I would help rewrite the outcome as follows (note you do not need to do this - I only need you to do steps 1 - 3 above):
+			- On completion of the course the student will be able to:
+				- Produce a directed learning plan to adopt and apply UI tools to the development of an Android app, demonstrated through task management, documentation and personal reflection.
+- # Juan
+	- My project proposal is about: an app will be created (GoldenBites) so that the guests of the residences can reserve additional dishes in the kitchen. This information will be saved in a database and through this same application the kitchen will be able to verify the additional dishes that it will have to prepare for a certain date.  Follow are two learning outcomes:
+		- So far I have learned how to create static web pages, however I want to learn more about the skills needed to create dynamic applications that are easy to use for different types of users, in this case for guest users (to reserve additional meals) as well as kitchen staff (to manage orders), I would like to learn more about the application of roles for different types of users within the same application.
+		- ~~With the construction of this application I consider that it will be possible to consolidate and add learning about the interaction of various technological tools such as HTML, CSS, PHP and JavaScript, this because I have used them independently but not all together.~~
+	- I consider that it will be possible to demonstrate the learning through the operation of the application and the demonstration that the kitchen user has access to different functionalities of the application as well as different information, this with respect to the guest user
+- # Suhail
+	- Learning react-native, flask, firebase:
+		- Since this is my first time developing an application using React**-**native, Flask, and Firebase, I will need to research on how each technology works. I will focus on learning how to integrate Firebase into both the frontend and backend, manage user authentication, and data handling. This is a "measured risk" for me because I have no prior experience using these technologies together, and I’ll need to build my understanding from scratch.
+		- I will explore documentation, tutorials, and community resources to learn how these technologies work together. I’ll implement the features step by step, starting with Firebase setup, authentication, and then integrating the backend and frontend to ensure smooth communication between all components.
+		- **Notes** this is not a "measured risk" but a risk. What is the mitigation plan?
+	- Learning project management
+		- I will learn about project management strategies and techniques to ensure the development of the application stays on track. Specifically, I will research methods like Gantt charts and task management to organize and prioritize tasks. I am new to managing an entire project on my own, and balancing different areas like designing, developing, testing.
+		- Actions: I will apply these strategies by creating a Gantt chart for my project, setting clear deadlines for each development phase, and breaking down tasks into smaller, manageable goals. I’ll adjust timelines based on progress and reflect on how this impacts the project.
+		- **Notes** how does this differ/go beyond what you already learned in DGL 211?
+	- To demonstrate my learning, I will document my learnings and research as a journal. I will also present the working features in the final project submission and provide documentation that explains how I applied what I learned to the app.
+- # Saif
+	- **Research Component****:**
+		- For my final year project, I am creating a website for Valley View Daycare. While I have a solid understanding of front-end development, I have limited experience in user-centered design and accessibility for websites. For this project, I will need to learn how to design a website that not only looks appealing but also meets the needs of a diverse group of parents including those who may have limited technical skills or accessibility challenges.
+		- This will involve researching:
+			- How to make the website easy to use for all parents, especially those who may not be familiar with technology.
+			- Understanding accessibility standards, so the site can be used by parents with visual or physical impairments.
+	- **Actions I Expect to Take****:**
+		- To achieve this outcome, I will:
+			- Conduct research on user-centered design principles and accessibility standards to ensure the website is inclusive and functional for all parents.
+			- Gather feedback from potential users (parents) to understand their needs and expectations for the website.
+			- ~~Implement design and development practices that prioritize ease of use and accessibility, such as clear navigation, readable text, and mobile responsiveness.~~
+			- ~~These actions will be incorporated into the website development process to create a final product that meets both the technical and user-centric goals of the project.~~
+	- **Demonstration of Learning Outcome****:**
+		- I will demonstrate this learning outcome by:
+			- Final Product: Presenting a website that reflects the input and needs of its users, ensuring that it is easy to navigate, accessible, and responsive. The site will include features like intuitive menus, clear communication options, and accessible forms.
+			- Documentation: I will document the research conducted, user feedback gathered, and the design choices made based on accessibility and user needs. This will include a clear explanation of how these elements shaped the final product.
+			- This project will showcase my ability to balance technical development with user experience design, making it a valuable capstone for my final year.
+	- ## Learning outcome rewrite
+		- On completion of the course the student will be able to:
+			- Enact a formal usability testing plan that includes research into product-appropriate accessibility standards, collection of user feedback, and product iteration, demonstrated through complete process documentation that identifies design and development choices made due to results of the usability testing process.
+- # Viren
+	- I’m good at creating attractive visual designs but not very experienced with animations. To improve my skills, I will research the basic concepts and techniques for animations in web development, focusing on CSS and JavaScript.
+		- **CSS Animation Basics**: I will learn about important features like @keyframes, transitions, and transforms to create smooth animations using CSS.
+		- **JavaScript Animation Libraries**: I plan to explore popular libraries like GSAP and Anime.js, which can help me create more complex animations. Understanding how to use these tools effectively will be important.
+		- **Performance Optimization**: I will look into best practices for making animations run smoothly on different devices. This includes minimizing issues like reflow and repaint and using techniques like requestAnimationFrame.
+		- **User Experience (UX) Principles**: I need to understand how animations affect user experience. I will research guidelines to use animations in ways that enhance the interface rather than distract users.
+	- **Justification for Measured Risk**
+		- **Technical Complexity**: While I’m strong in visual design, the technical side of animations, especially with JavaScript, is a new challenge that requires more knowledge and practice.
+		- **Performance Considerations**: Making sure animations look good and run well adds extra complexity that I need to handle.
+		- **Creative Challenges**: Integrating animations into my designs will push me to think more creatively, which can be intimidating but also rewarding.
+	- Overall, this journey will help me improve my skills and deepen my understanding of web development. I will keep track of my research and learning through organized tasks, written notes, and presentations.
+	- ## Learning outcome rewrite
+		- On completion of the course the student will be able to:
+			- Implement optimized animations that enhance user experience, based on a formal process of research, needs assessment, accessibility principles and best practices. Learning is demonstrated through documentation (of tasks, analysis and process) and in the final capstone product.
+- # Abhiram
+	- Deploy a Polished, Documented, and Bug-Free App to the Play Store​
+		- **Objective:** Successfully launch the Langroove on the Play Store, ensuring it is well-documented, polished, and free of bugs.​
+		- **Measured Risk:** Balancing time constraints and real-world challenges, such as debugging, testing and meeting Play Store guidelines.​
+		- **Potential Career Growth:** This experience provides valuable exposure to the full app development lifecycle, enhancing my skills in deployment.​
+	- Leverage Multi-Disciplinary Skills from NIC Courses​
+		- **Objective:** Integrate skills from various NIC courses - Interface design from DGL-111, React Native from DGL-214, JavaScript from DGL-113/213, and code refactoring from DGL-104 into one cohesive project.​
+		- **Measured Risk:** Combining technical skills while ensuring proper code structure, user experience, and scalability.​
+		- **Potential Career Growth:** This project will help me demonstrate my ability to connect theoretical knowledge with practical application. It also highlights my adaptability in using multiple technologies to build a robust product.​
+	- ## Learning outcome rewrite
+		- On completion of the course the student will be able to:
+			- Deploy a polished, documented and bug-free app to the Play Store, following Play Store guidelines and typical best practices for app user experience. Learning will be demonstrated through a combination of documentation (including checklist and tracking on all necessary steps for Play Store deployment), completed tasks, and successful deployment.
+- # Hiren
+	- Here are my Learning objectives
+		- While working and after completing the project, I aim to deepen my understanding of performance optimization techniques, ensuring the website operates efficiently with fast load times and smooth interactions.
+		- While working and after completing the project, I aim to enhance my proficiency in accessibility standards, ensuring that the website is fully compliant with best practices and inclusive for all users.
+	- Also, in personal meeting , You asked me about how do will I measure my objectives. Here is my idea for that.
+		- To measure the performance of React app I will use the Google Chrome Lighthouse, Web Vitals and React Dev tools which provide the detailed performance.
+		- Similarly, there are opensource free tools such as WAVE, Chrome Dev Tools, Lighthouse to test and improve accessibility and match latest web standards.
+	- ## Learning outcome rewrite
+		- On completion of the course the student will be able to:
+			- Enact a performance optimization testing plan that includes research into framework-specific tools, and adapting performance optimization techniques, demonstrated through complete documentation that identifies design and development choices made due to results of the performance optimization process.
+- # Yogesh
+	- **Deployment and Maintenance:**
+	- **Research Component:**
+		- While I am familiar with deploying projects on single servers, I have never deployed a web app where the frontend, backend, and database are hosted on three different cloud servers. I will need to research how to properly configure these cloud services and establish connections between them, ensuring that data flows smoothly between all components. This is a stretch for me because managing multiple cloud servers involves challenges like handling cross-server communication, ensuring security, and preventing performance bottlenecks or downtime. Learning how to deploy and maintain such a setup will deepen my understanding of cloud infrastructure and improve my ability to manage more complex, scalable web applications.
+	- **Expected Actions:**
+		- After completing my research, I have some Idea how to make it happen and I will deploy the frontend, backend, and database of my web app on separate cloud servers. I will focus on configuring these servers to work together without errors and ensure that data can be sent and received seamlessly. Additionally, I will set up monitoring tools or logging to track performance and develop a strategy for bug fixes and potential issues that may arise post-deployment. API’s will be used for the communication between the different servers.
+	- **Demonstration of Learning:**
+		- To demonstrate this learning outcome, I will document the entire process of deploying the app on multiple cloud servers. This will include my research findings, step-by-step deployment actions, and how I resolved any challenges. The final product will showcase the fully deployed and functional web app running across three different servers. I will also include details of how I monitored the app's performance and how the communication across servers is working. This will be presented in the final project submission, along with reflections on how this experience will benefit future cloud-based projects I work on.
+	- ## Learning outcome rewrite
+		- On completion of the course the student will be able to:
+			- Deploy a web app on multiple cloud servers, based on research identifying optimal cloud infrastructure and scalable and performance-based best practices. Learning is demonstrated through documentation that captures monitoring and logging processes, summarizes tasks completed and issues addressed, and through direct demonstration of a performant web app.

@@ -42,7 +42,7 @@
 			- [[LO1]] - (Manage) [[Procedural knowledge]] - students understand techniques and methods of project management.
 			- [[LO3]] - (Synthesize) [[Metacognitive knowledge]] - students demonstrate contextual and self-knowledge through critical reflection on peer and instructor presentation feedback. (Building to this across all four presentations reports).
 			- [[LO4]] - (Produce... process documentation) [[Procedural knowledge]] - students demonstrate knowledge of techniques and methods for producing effective documentation.
-		- ### [[Capstone - case study]]
+		- ### [[Capstone - Case Study]]
 			- [[LO1]] - (Manage) [[Procedural knowledge]] - students understand techniques and methods of project management.
 			- [[LO2]] - [[Metacognitive knowledge]] - students demonstrate self-knowledge by critiquing their efforts (successes or failures) towards the achievement of personal learning objectives.
 			- [[LO4]] - (Produce... process documentation) [[Procedural knowledge]] - students demonstrate knowledge of techniques and methods for producing effective presentation.

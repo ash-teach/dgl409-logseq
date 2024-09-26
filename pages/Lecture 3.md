@@ -1,4 +1,8 @@
-# Schedule
+subtitle:: writing a proposal pt 2
+tags:: 2024fa
+topics:: learning outcome workshop, project summary, user research
+
+- # Schedule
 	- DONE Class welcome
 	  :LOGBOOK:
 	  CLOCK: [2024-09-12 Thu 08:31:39]--[2024-09-12 Thu 08:57:57] =>  00:26:18
@@ -13,7 +17,7 @@
 	  :END:
 	- DONE Sign up to GitHub Education
 	- DONE Sign up to and practice with Toggl
-	- TODO User research activities
+	- CANCELED User research activities
 - # Learning outcomes
 	- | Activity | Outcome | Maps to... |
 	  | Workshop capstone assignment description | Assess capstone description against learning outcomes to achieve a fulsome understanding of requirements; potentially to modify description to better reflect outcomes | [[LO2]] and [[LO4]] |

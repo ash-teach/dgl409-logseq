@@ -1,0 +1,15 @@
+# Description
+	- The Minimum Viable Product (MVP) is a complete low-feature version of the capstone project product. The MVP includes the most essential features of the product, and although not completely polished is highly usable and free of critical blocking bugs.
+- # Requirements
+	- The student must demonstrate a working knowledge of the context of project management by choosing tasks and necessary to the production of a complete MVP with scope appropriate to their product design.
+	- The student must demonstrate the application of specific taught skills in the production of a complete MVP. There are clear opportunities for ongoing synthesis of taught skills.
+	- The student must demonstrate progress on their personal learning outcomes, as defined in their project proposal.
+	- The student must demonstrate an ability to document all aspects of project progress, and developer-oriented and user-oriented documentation.
+- # Checklist
+	- Complete MVP, publicaly hosted
+	- Fulsome and detailed documentation, including:
+		- Task management
+		- Developer documentation
+		- User docuementation
+		- Ancillary documentation (e.g. license, contributing, code of conduct)
+	- Toggl report
