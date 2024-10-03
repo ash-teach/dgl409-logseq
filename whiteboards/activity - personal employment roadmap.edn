@@ -1,0 +1,911 @@
+{:blocks (
+{:block/content "Goal: Think primarily about the next five years, with some influence from further out"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed0d7-c8d1-4ecb-ae10-e40d0ca0c56f"} 
+{:block/created-at 1727975648263
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "66fed0d7-c8d1-4ecb-ae10-e40d0ca0c56f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 65]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d4d35da0-81aa-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [136 48]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727975618880}}
+:block/updated-at 1727975648263} 
+{:block/content "Where you are now"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed0d7-c8d1-4ecb-ae10-e40d0ca0c56f"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed12d-3b46-4aeb-b69b-7fdb0ec6c6ce"} 
+{:block/created-at 1727975728287
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "66fed12d-3b46-4aeb-b69b-7fdb0ec6c6ce"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [200 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "122610d0-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [88 336]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727975721625}}
+:block/updated-at 1727975728287} 
+{:block/content "What / where you want to be in five years "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed12d-3b46-4aeb-b69b-7fdb0ec6c6ce"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed141-8347-4d12-8e39-bce3c7be312b"} 
+{:block/created-at 1727976156644
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "66fed141-8347-4d12-8e39-bce3c7be312b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "16ec2460-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [928 368]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727975729928}}
+:block/updated-at 1727976156644} 
+{:block/content "Ten years...????"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed141-8347-4d12-8e39-bce3c7be312b"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed14d-71f2-4676-9562-a3c30101446b"} 
+{:block/created-at 1727975768476
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "66fed14d-71f2-4676-9562-a3c30101446b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "26db9450-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1488 336]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727975756679}}
+:block/updated-at 1727975768476} 
+{:block/content "What are the values you want to build toward?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed14d-71f2-4676-9562-a3c30101446b"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed1c0-97a1-4a02-9dc9-e229db17ce92"} 
+{:block/created-at 1727975872285
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "66fed1c0-97a1-4a02-9dc9-e229db17ce92"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "662adad0-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1568 408]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727975862527}}
+:block/updated-at 1727975872285} 
+{:block/content "What are your career goals?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed1c0-97a1-4a02-9dc9-e229db17ce92"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed1cc-7697-4a5b-b3a7-a148ea06b810"} 
+{:block/created-at 1727976154321
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "66fed1cc-7697-4a5b-b3a7-a148ea06b810"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6d2c3860-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1016 424]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727975874506}}
+:block/updated-at 1727976154321} 
+{:block/content "Expert-level knowledge"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed1cc-7697-4a5b-b3a7-a148ea06b810"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/properties 
+{}
+:block/uuid #uuid "66fed20f-3ccb-412c-b357-ed9ad6919471"} 
+{:block/created-at 1727975960380
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "66fed20f-3ccb-412c-b357-ed9ad6919471"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "80ee5b30-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1064 480]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727975907431}}
+:block/updated-at 1727975960380} 
+{:block/content "Leadership/management experience"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed20f-3ccb-412c-b357-ed9ad6919471"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed226-8284-40b3-8382-947fc280789d"} 
+{:block/created-at 1727975978585
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "66fed226-8284-40b3-8382-947fc280789d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a1084840-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1072 536]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727975961344}}
+:block/updated-at 1727975978585} 
+{:block/content "Breadth experience"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed226-8284-40b3-8382-947fc280789d"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed249-cc36-4dc9-a819-6b532f141a9a"} 
+{:block/created-at 1727976014448
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "66fed249-cc36-4dc9-a819-6b532f141a9a"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "abc43cd0-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1072 592]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727975979391}}
+:block/updated-at 1727976014448} 
+{:block/content "What job do you want to have?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed249-cc36-4dc9-a819-6b532f141a9a"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed257-4421-47c7-8e70-3f7177f4c006"} 
+{:block/created-at 1727978379456
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "66fed257-4421-47c7-8e70-3f7177f4c006"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [264 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c17b78e0-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [968 1152]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727976016621}}
+:block/updated-at 1727978379456} 
+{:block/content "Skillset"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed257-4421-47c7-8e70-3f7177f4c006"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed278-3c4b-4886-b1f7-d21d16ed9e2e"} 
+{:block/created-at 1727976056687
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 10
+:scale [1 1]
+:pageId "66fed278-3c4b-4886-b1f7-d21d16ed9e2e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d7f3e210-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [96 400]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727976053427}}
+:block/updated-at 1727976056687} 
+{:block/content "Experience - work / volunteer"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed278-3c4b-4886-b1f7-d21d16ed9e2e"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/properties 
+{}
+:block/uuid #uuid "66fed280-1c71-4726-9081-7f6ded9f7866"} 
+{:block/created-at 1727976077543
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "66fed280-1c71-4726-9081-7f6ded9f7866"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "db0cbad0-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [96 448]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727976058765}}
+:block/updated-at 1727976077543} 
+{:block/content "Certifications etc."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed280-1c71-4726-9081-7f6ded9f7866"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed29b-5217-494b-b5bb-4c0fa2f60c73"} 
+{:block/created-at 1727976094291
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 12
+:scale [1 1]
+:pageId "66fed29b-5217-494b-b5bb-4c0fa2f60c73"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e6f8f200-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [96 496]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727976078694}}
+:block/updated-at 1727976094291} 
+{:block/content "What is the job you want *today*?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed29b-5217-494b-b5bb-4c0fa2f60c73"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed2b5-147a-4b16-baf8-4cd5c07f4bb2"} 
+{:block/created-at 1727976121366
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 13
+:scale [1 1]
+:pageId "66fed2b5-147a-4b16-baf8-4cd5c07f4bb2"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f58130d0-81ab-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [96 552]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727976103071}}
+:block/updated-at 1727976121366} 
+{:block/content "Roadmap should include:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed2b5-147a-4b16-baf8-4cd5c07f4bb2"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed36a-4384-4281-a896-7d0e432d52a7"} 
+{:block/created-at 1727976305535
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 14
+:scale [1 1]
+:pageId "66fed36a-4384-4281-a896-7d0e432d52a7"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "63c57e20-81ac-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [568 464]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727976288246}}
+:block/updated-at 1727976305535} 
+{:block/content "How to leverage skills from your \"job\" today to reach your five-year goal"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed36a-4384-4281-a896-7d0e432d52a7"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed3a3-1f09-47ee-af60-ea34c31e9abe"} 
+{:block/created-at 1727976355756
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 15
+:scale [1 1]
+:pageId "66fed3a3-1f09-47ee-af60-ea34c31e9abe"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 65]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "706749b0-81ac-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [616 528]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727976309198}}
+:block/updated-at 1727976355756} 
+{:block/content "How to adopt new skills, possibly from outside of your day-to-day job, to reach your five-year goal?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed3a3-1f09-47ee-af60-ea34c31e9abe"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed3c2-9693-43cc-b776-8f551ba101e0"} 
+{:block/created-at 1727976390367
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 16
+:scale [1 1]
+:pageId "66fed3c2-9693-43cc-b776-8f551ba101e0"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 89]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8d1b9d90-81ac-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [616 608]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727976357443}}
+:block/updated-at 1727976390367} 
+{:block/content "Careers:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed3c2-9693-43cc-b776-8f551ba101e0"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed6b6-efd3-48e1-97ec-7ac70a5850ef"} 
+{:block/created-at 1727978379456
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 17
+:scale [1 1]
+:pageId "66fed6b6-efd3-48e1-97ec-7ac70a5850ef"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5e1d8420-81ae-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1008 1200]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727977137686}}
+:block/updated-at 1727978379456} 
+{:block/content "Sales-oriented developer"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed6b6-efd3-48e1-97ec-7ac70a5850ef"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed6c5-c6f1-4398-bfdf-36baf37f46f9"} 
+{:block/created-at 1727978379456
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 18
+:scale [1 1]
+:pageId "66fed6c5-c6f1-4398-bfdf-36baf37f46f9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "62667870-81ae-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1064 1256]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727977144994}}
+:block/updated-at 1727978379456} 
+{:block/content "Developer advocacy"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed6c5-c6f1-4398-bfdf-36baf37f46f9"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed733-427c-4a80-af88-c3d4293e99fc"} 
+{:block/created-at 1727978379456
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 19
+:scale [1 1]
+:pageId "66fed733-427c-4a80-af88-c3d4293e99fc"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a5a98e60-81ae-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1064 1312]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727977257790}}
+:block/updated-at 1727978379456} 
+{:block/content "Full-stack developer"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed733-427c-4a80-af88-c3d4293e99fc"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed7d1-1c20-4be9-bb81-2bab7a9c8a31"} 
+{:block/created-at 1727978379456
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 20
+:scale [1 1]
+:pageId "66fed7d1-1c20-4be9-bb81-2bab7a9c8a31"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "05925230-81af-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1064 1368]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727977418885}}
+:block/updated-at 1727978379456} 
+{:block/content "Development of multiple apps"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed7d1-1c20-4be9-bb81-2bab7a9c8a31"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fed8e0-abd3-4e36-b6c2-a3f0fd98dcc9"} 
+{:block/created-at 1727977700091
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 21
+:scale [1 1]
+:pageId "66fed8e0-abd3-4e36-b6c2-a3f0fd98dcc9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a6c59040-81af-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1144 640]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727977689032}}
+:block/updated-at 1727977700091} 
+{:block/content "Success? Show the metrics"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fed8e0-abd3-4e36-b6c2-a3f0fd98dcc9"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66feda32-be70-4803-b248-6cded9bfdde5"} 
+{:block/created-at 1727978040427
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 22
+:scale [1 1]
+:pageId "66feda32-be70-4803-b248-6cded9bfdde5"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6e923ec0-81b0-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1240 688]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727978024186}}
+:block/updated-at 1727978040427} 
+{:block/content "Unsuccessful? Leverage your experience to demonstrate: community support, \"thought leadership\", technical breadth - dependent on career goals"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66feda32-be70-4803-b248-6cded9bfdde5"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/properties 
+{}
+:block/uuid #uuid "66feda4a-136d-43f2-99d2-fda0856b04bd"} 
+{:block/created-at 1727978383592
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 23
+:scale [1 1]
+:pageId "66feda4a-136d-43f2-99d2-fda0856b04bd"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [608 65]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7a7d3d70-81b0-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1248 744]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727978044934}}
+:block/updated-at 1727978383592} 
+{:block/content "Technical writing"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66feda4a-136d-43f2-99d2-fda0856b04bd"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fedb15-8c4e-4ef0-9735-36ed3bfaec7f"} 
+{:block/created-at 1727978379456
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 24
+:scale [1 1]
+:pageId "66fedb15-8c4e-4ef0-9735-36ed3bfaec7f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fc102b40-81b0-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1064 1416]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727978261766}}
+:block/updated-at 1727978379456} 
+{:block/content "Digital marketing"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fedb15-8c4e-4ef0-9735-36ed3bfaec7f"}
+:block/parent 
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"}
+:block/uuid #uuid "66fedb1f-bce3-44c5-9d32-903c517fe900"} 
+{:block/created-at 1727978379456
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 25
+:scale [1 1]
+:pageId "66fedb1f-bce3-44c5-9d32-903c517fe900"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fed4a270-81b0-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1064 1472]
+:parentId "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:collapsedHeight 0
+:nonce 1727978266447}}
+:block/updated-at 1727978379456})
+:pages (
+{:block/uuid #uuid "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66fecacd-fa26-4149-b7a8-8923f23af8ea"
+:name "activity - personal employment roadmap"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("d4d35da0-81aa-11ef-a9d4-ab265f47f7cf" "122610d0-81ab-11ef-a9d4-ab265f47f7cf" "16ec2460-81ab-11ef-a9d4-ab265f47f7cf" "26db9450-81ab-11ef-a9d4-ab265f47f7cf" "662adad0-81ab-11ef-a9d4-ab265f47f7cf" "6d2c3860-81ab-11ef-a9d4-ab265f47f7cf" "80ee5b30-81ab-11ef-a9d4-ab265f47f7cf" "a1084840-81ab-11ef-a9d4-ab265f47f7cf" "abc43cd0-81ab-11ef-a9d4-ab265f47f7cf" "c17b78e0-81ab-11ef-a9d4-ab265f47f7cf" "d7f3e210-81ab-11ef-a9d4-ab265f47f7cf" "db0cbad0-81ab-11ef-a9d4-ab265f47f7cf" "e6f8f200-81ab-11ef-a9d4-ab265f47f7cf" "f58130d0-81ab-11ef-a9d4-ab265f47f7cf" "63c57e20-81ac-11ef-a9d4-ab265f47f7cf" "706749b0-81ac-11ef-a9d4-ab265f47f7cf" "8d1b9d90-81ac-11ef-a9d4-ab265f47f7cf" "5e1d8420-81ae-11ef-a9d4-ab265f47f7cf" "62667870-81ae-11ef-a9d4-ab265f47f7cf" "a5a98e60-81ae-11ef-a9d4-ab265f47f7cf" "05925230-81af-11ef-a9d4-ab265f47f7cf" "a6c59040-81af-11ef-a9d4-ab265f47f7cf" "6e923ec0-81b0-11ef-a9d4-ab265f47f7cf" "7a7d3d70-81b0-11ef-a9d4-ab265f47f7cf" "fc102b40-81b0-11ef-a9d4-ab265f47f7cf" "fed4a270-81b0-11ef-a9d4-ab265f47f7cf")}}
+:block/updated-at 1727978383592
+:block/created-at 1727974093903
+:block/type "whiteboard"
+:block/name "activity - personal employment roadmap"
+:block/original-name "activity - personal employment roadmap"})}

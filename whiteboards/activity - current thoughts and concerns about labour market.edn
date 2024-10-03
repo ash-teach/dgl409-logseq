@@ -1,0 +1,1426 @@
+{:blocks (
+{:block/content "Where are the jobs?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febb74-6320-4ccb-9d9f-f550138f54c1"} 
+{:block/created-at 1727973522394
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "66febb74-6320-4ccb-9d9f-f550138f54c1"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [184 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1f551420-819e-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [328 224]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970160312}}
+:block/updated-at 1727973522394} 
+{:block/content "Job search tools"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febb74-6320-4ccb-9d9f-f550138f54c1"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/properties 
+{}
+:block/uuid #uuid "66febb85-11a6-4a59-b61b-f5d0020fac31"} 
+{:block/created-at 1727973295869
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "66febb85-11a6-4a59-b61b-f5d0020fac31"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [152 40.99998474121094]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "27b7fd80-819e-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1128 168]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970174773}}
+:block/updated-at 1727973295869} 
+{:block/content "LinkedIn"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febb85-11a6-4a59-b61b-f5d0020fac31"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febb96-9da8-4ed6-a0fa-82e6d4c9436c"} 
+{:block/created-at 1727970386476
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "66febb96-9da8-4ed6-a0fa-82e6d4c9436c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [104 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "34782680-819e-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1200 216]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970195749}}
+:block/updated-at 1727970386476} 
+{:block/content "Experience?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febb96-9da8-4ed6-a0fa-82e6d4c9436c"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/properties 
+{}
+:block/uuid #uuid "66febbd1-fd22-4c59-a23f-9081520b98a6"} 
+{:block/created-at 1727970397596
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "66febbd1-fd22-4c59-a23f-9081520b98a6"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [144 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "56d2b4c0-819e-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1112 544]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970253465}}
+:block/updated-at 1727970397596} 
+{:block/content "Concern"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febbd1-fd22-4c59-a23f-9081520b98a6"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febbed-1038-42cc-8440-9dccca9d2333"} 
+{:block/created-at 1727970940200
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "66febbed-1038-42cc-8440-9dccca9d2333"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [104 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "68bb83b0-819e-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1064 488]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970283648}}
+:block/updated-at 1727970940200} 
+{:block/content "Canadian experience?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febbed-1038-42cc-8440-9dccca9d2333"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febc16-9676-4169-89f9-60dc4156fc1b"} 
+{:block/created-at 1727970393048
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "66febc16-9676-4169-89f9-60dc4156fc1b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [200 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7e234030-819e-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1112 592]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970319523}}
+:block/updated-at 1727970393048} 
+{:block/content "Volunteer work"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febc16-9676-4169-89f9-60dc4156fc1b"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febc3b-1a2d-4219-859a-e69611d2bf34"} 
+{:block/created-at 1727970429811
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "66febc3b-1a2d-4219-859a-e69611d2bf34"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [144 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "98000a10-819e-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [448 360]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970362868}}
+:block/updated-at 1727970429811} 
+{:block/content "Internship"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febc3b-1a2d-4219-859a-e69611d2bf34"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febc42-09a3-4029-ba72-0307d33fff70"} 
+{:block/created-at 1727970426159
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "66febc42-09a3-4029-ba72-0307d33fff70"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [120 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "99db32b0-819e-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [144 360]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970366083}}
+:block/updated-at 1727970426159} 
+{:block/content "Open source contributions"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febc42-09a3-4029-ba72-0307d33fff70"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febcc7-1f0c-4313-9f3d-77650a8e432d"} 
+{:block/created-at 1727970507682
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "66febcc7-1f0c-4313-9f3d-77650a8e432d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [232 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c9ad5310-819e-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [528 416]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970446060}}
+:block/updated-at 1727970507682} 
+{:block/content "Consider - All Contributors"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febcc7-1f0c-4313-9f3d-77650a8e432d"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febdb8-1a45-4187-8438-64f82533a9bb"} 
+{:block/created-at 1727970872382
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "66febdb8-1a45-4187-8438-64f82533a9bb"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [264 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7b35eed0-819f-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [584 464]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970744088}}
+:block/updated-at 1727970872382} 
+{:block/content "GitHub - Community Exchange"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febdb8-1a45-4187-8438-64f82533a9bb"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febde7-b4c7-4ad9-a441-1c513f314a66"} 
+{:block/created-at 1727970865649
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 10
+:scale [1 1]
+:pageId "66febde7-b4c7-4ad9-a441-1c513f314a66"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [272 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7fee6dd0-819f-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [584 512]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970751961}}
+:block/updated-at 1727970865649} 
+{:block/content "Open Sauced"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febde7-b4c7-4ad9-a441-1c513f314a66"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febe28-ca50-4339-a6be-e2f254f73aac"} 
+{:block/created-at 1727970896712
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "66febe28-ca50-4339-a6be-e2f254f73aac"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [168 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bc0349d0-819f-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [584 560]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970852916}}
+:block/updated-at 1727970896712} 
+{:block/content "Skill gap"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febe28-ca50-4339-a6be-e2f254f73aac"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febea5-0c73-4a3c-95a4-0dd5ea39cc0b"} 
+{:block/created-at 1727971025471
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 12
+:scale [1 1]
+:pageId "66febea5-0c73-4a3c-95a4-0dd5ea39cc0b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [120 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "07265d80-81a0-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1408 544]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727970979005}}
+:block/updated-at 1727971025471} 
+{:block/content "Client expectations are unrealistic"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febea5-0c73-4a3c-95a4-0dd5ea39cc0b"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/properties 
+{}
+:block/uuid #uuid "66febf34-f409-410f-a164-8d53972ad7f9"} 
+{:block/created-at 1727971141079
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 13
+:scale [1 1]
+:pageId "66febf34-f409-410f-a164-8d53972ad7f9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5de9d250-81a0-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1456 600]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727971124322}}
+:block/updated-at 1727971141079} 
+{:block/content "Hiring expectations are unrealistic"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febf34-f409-410f-a164-8d53972ad7f9"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febf4e-fa00-4463-a888-21d1c1db02fa"} 
+{:block/created-at 1727971155093
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 14
+:scale [1 1]
+:pageId "66febf4e-fa00-4463-a888-21d1c1db02fa"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "685276c0-81a0-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1456 648]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727971141782}}
+:block/updated-at 1727971155093} 
+{:block/content "Job postings are fishing expeditions"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febf4e-fa00-4463-a888-21d1c1db02fa"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febfba-49b5-4f2c-b21f-631c0f29260b"} 
+{:block/created-at 1727971265132
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 15
+:scale [1 1]
+:pageId "66febfba-49b5-4f2c-b21f-631c0f29260b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "acb1d220-81a0-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [1456 704]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727971256606}}
+:block/updated-at 1727971265132} 
+{:block/content "2024/25 - Employer's market"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febfba-49b5-4f2c-b21f-631c0f29260b"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66febfe9-43c8-4d10-942d-f533ed9f4725"} 
+{:block/created-at 1727973524390
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 16
+:scale [1 1]
+:pageId "66febfe9-43c8-4d10-942d-f533ed9f4725"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bc6ee770-81a0-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [592 264]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727971283093}}
+:block/updated-at 1727973524390} 
+{:block/content "Outsourcing"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66febfe9-43c8-4d10-942d-f533ed9f4725"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec071-9393-40eb-b4ea-75482ae4a49d"} 
+{:block/created-at 1727972151908
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 17
+:scale [1 1]
+:pageId "66fec071-9393-40eb-b4ea-75482ae4a49d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [144 40.99998400383931]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "17138e10-81a1-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [456 712]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727971435451}}
+:block/updated-at 1727972151908} 
+{:block/content "Freelancing"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec071-9393-40eb-b4ea-75482ae4a49d"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec076-11a0-4d69-a8ea-a213f74797cc"} 
+{:block/created-at 1727971459656
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 18
+:scale [1 1]
+:pageId "66fec076-11a0-4d69-a8ea-a213f74797cc"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [120 40.99998400383931]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1c71c2f0-81a1-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [816 712]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727971444144}}
+:block/updated-at 1727971459656} 
+{:block/content "Contract/gig-based"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec076-11a0-4d69-a8ea-a213f74797cc"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec0d4-9206-45db-bb12-39f2fd151c86"} 
+{:block/created-at 1727971548310
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 19
+:scale [1 1]
+:pageId "66fec0d4-9206-45db-bb12-39f2fd151c86"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [192 41.0000473202687]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "52087b20-81a1-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [856 768]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727971533967}}
+:block/updated-at 1727971548310} 
+{:block/content "Union movements"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec0d4-9206-45db-bb12-39f2fd151c86"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec0f5-88da-4a33-b588-f773044c548a"} 
+{:block/created-at 1727972138523
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 20
+:scale [1 1]
+:pageId "66fec0f5-88da-4a33-b588-f773044c548a"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [184 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "64196b80-81a1-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [104 704]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727971564645}}
+:block/updated-at 1727972138523} 
+{:block/content "Working location"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec0f5-88da-4a33-b588-f773044c548a"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec371-a305-42c9-aea2-96196d2b5688"} 
+{:block/created-at 1727972213711
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 21
+:scale [1 1]
+:pageId "66fec371-a305-42c9-aea2-96196d2b5688"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [168 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "dd815360-81a2-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [-200 120]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972197335}}
+:block/updated-at 1727972213711} 
+{:block/content "Remote"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec371-a305-42c9-aea2-96196d2b5688"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec378-96d0-4c68-b283-777c22f8b451"} 
+{:block/created-at 1727972228408
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 22
+:scale [1 1]
+:pageId "66fec378-96d0-4c68-b283-777c22f8b451"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [96 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e7b35770-81a2-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [-120 176]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972214532}}
+:block/updated-at 1727972228408} 
+{:block/content "Hybrid"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec378-96d0-4c68-b283-777c22f8b451"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec37b-41d4-4949-883b-302f0d7c6146"} 
+{:block/created-at 1727972230279
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 23
+:scale [1 1]
+:pageId "66fec37b-41d4-4949-883b-302f0d7c6146"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [80 41.000030517578125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e97308d0-81a2-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [-120 224]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972217506}}
+:block/updated-at 1727972230279} 
+{:block/content "Comox Valley"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec37b-41d4-4949-883b-302f0d7c6146"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec3ad-f04d-4ffa-a640-b228a8242268"} 
+{:block/created-at 1727972429506
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 24
+:scale [1 1]
+:pageId "66fec3ad-f04d-4ffa-a640-b228a8242268"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [128 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0382a280-81a3-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [-256 368]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972261357}}
+:block/updated-at 1727972429506} 
+{:block/content "Who are the employers?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec3ad-f04d-4ffa-a640-b228a8242268"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec3c0-be6b-4687-b8a4-7b93610565ca"} 
+{:block/created-at 1727972423840
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 25
+:scale [1 1]
+:pageId "66fec3c0-be6b-4687-b8a4-7b93610565ca"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [216 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "138f5e70-81a3-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [-216 416]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972288175}}
+:block/updated-at 1727972423840} 
+{:block/content "Networking"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec3c0-be6b-4687-b8a4-7b93610565ca"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec3f8-0cfc-405d-8e9f-672fdc63caaa"} 
+{:block/created-at 1727973808959
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 26
+:scale [1 1]
+:pageId "66fec3f8-0cfc-405d-8e9f-672fdc63caaa"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [136 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "337c2100-81a3-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [24 128]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972342099}}
+:block/updated-at 1727973808959} 
+{:block/content "Cost of living/rental market"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec3f8-0cfc-405d-8e9f-672fdc63caaa"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec442-1d4f-4ef9-aaf3-dbca15f05ccb"} 
+{:block/created-at 1727972434551
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 27
+:scale [1 1]
+:pageId "66fec442-1d4f-4ef9-aaf3-dbca15f05ccb"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [232 41.000030517578125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5ddfb8d0-81a3-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [-120 272]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972412788}}
+:block/updated-at 1727972434551} 
+{:block/content "Google Open Summer of Code"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec442-1d4f-4ef9-aaf3-dbca15f05ccb"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/properties 
+{}
+:block/uuid #uuid "66fec507-b436-4f29-b6f9-32a3ef9babd9"} 
+{:block/created-at 1727972765802
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 28
+:scale [1 1]
+:pageId "66fec507-b436-4f29-b6f9-32a3ef9babd9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [264 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d0d7a320-81a3-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [192 456]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972605942}}
+:block/updated-at 1727972765802} 
+{:block/content "Microsoft"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec507-b436-4f29-b6f9-32a3ef9babd9"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec57f-ccef-4744-80db-52c7c5709db5"} 
+{:block/created-at 1727972766854
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 29
+:scale [1 1]
+:pageId "66fec57f-ccef-4744-80db-52c7c5709db5"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [104 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1c3fd620-81a4-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [192 504]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972732276}}
+:block/updated-at 1727972766854} 
+{:block/content "Self-sourced internships"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec57f-ccef-4744-80db-52c7c5709db5"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec58f-5374-443f-bc38-393bf7ad3ea0"} 
+{:block/created-at 1727972762899
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 30
+:scale [1 1]
+:pageId "66fec58f-5374-443f-bc38-393bf7ad3ea0"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [232 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "24a138e0-81a4-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [168 408]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972746360}}
+:block/updated-at 1727972762899} 
+{:block/content "GenerativeAI"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec58f-5374-443f-bc38-393bf7ad3ea0"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec620-b930-482e-b2f7-6355e5503428"} 
+{:block/created-at 1727974032905
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 31
+:scale [1 1]
+:pageId "66fec620-b930-482e-b2f7-6355e5503428"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [144 41.00000003523674]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7e567670-81a4-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [416 -96]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972896764}}
+:block/updated-at 1727974032905} 
+{:block/content "Lower-order thinking"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec620-b930-482e-b2f7-6355e5503428"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec636-4782-4370-85cd-045a3e303733"} 
+{:block/created-at 1727972922887
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 32
+:scale [1 1]
+:pageId "66fec636-4782-4370-85cd-045a3e303733"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [208 40.99999934866037]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8786e900-81a4-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [552 -32]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727972912147}}
+:block/updated-at 1727972922887} 
+{:block/content "Act defensively and proactively - where can you continue to add value?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec636-4782-4370-85cd-045a3e303733"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/properties 
+{}
+:block/uuid #uuid "66fec76f-ea62-4f0a-a222-9e3420ec55c9"} 
+{:block/created-at 1727973239862
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 33
+:scale [1 1]
+:pageId "66fec76f-ea62-4f0a-a222-9e3420ec55c9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 65.00000155456098]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3f9e2350-81a5-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [560 16]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727973220972}}
+:block/updated-at 1727973239862} 
+{:block/content "Don't know how to use it = digital pariah"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec76f-ea62-4f0a-a222-9e3420ec55c9"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec7d3-454e-4dd8-81ba-2d1168b42331"} 
+{:block/created-at 1727973335679
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 34
+:scale [1 1]
+:pageId "66fec7d3-454e-4dd8-81ba-2d1168b42331"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41.00001113466881]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "816a29a0-81a5-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [560 88]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727973331442}}
+:block/updated-at 1727973335679} 
+{:block/content "\"Smoothing\" of the traditional organizational structure"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec7d3-454e-4dd8-81ba-2d1168b42331"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/properties 
+{}
+:block/uuid #uuid "66fec81e-5139-4219-a83f-2d4c12db8970"} 
+{:block/created-at 1727973425077
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 35
+:scale [1 1]
+:pageId "66fec81e-5139-4219-a83f-2d4c12db8970"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [440 41.00001113466881]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9da9c2b0-81a5-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [560 136]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727973378823}}
+:block/updated-at 1727973425077} 
+{:block/content "New jobs / categories"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec81e-5139-4219-a83f-2d4c12db8970"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec90b-1ac9-4226-9e53-2b136d53b5b9"} 
+{:block/created-at 1727973887151
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 36
+:scale [1 1]
+:pageId "66fec90b-1ac9-4226-9e53-2b136d53b5b9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [200 41.00001113466881]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "37042ef0-81a6-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [216 -24]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727973636106}}
+:block/updated-at 1727973887151} 
+{:block/content "Prompt engineering"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec90b-1ac9-4226-9e53-2b136d53b5b9"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec919-503c-40b8-b26c-6d817853fd37"} 
+{:block/created-at 1727973888189
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 37
+:scale [1 1]
+:pageId "66fec919-503c-40b8-b26c-6d817853fd37"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [184 41.00001113466881]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "40b1e7d0-81a6-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [272 24]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727973652385}}
+:block/updated-at 1727973888189} 
+{:block/content "Personal GPTs (llamafile)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec919-503c-40b8-b26c-6d817853fd37"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/uuid #uuid "66fec9a5-af9a-4126-97a3-30eee174ff95"} 
+{:block/created-at 1727973885416
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 38
+:scale [1 1]
+:pageId "66fec9a5-af9a-4126-97a3-30eee174ff95"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [224 40.99998756265193]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "83b02c90-81a6-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [216 72]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727973764800}}
+:block/updated-at 1727973885416} 
+{:block/content "Custom GPTs / Agents (ChatGPT Pro)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66fec9a5-af9a-4126-97a3-30eee174ff95"}
+:block/parent 
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"}
+:block/properties 
+{}
+:block/uuid #uuid "66fec9d2-cb5b-49b0-a851-06ea99de59a1"} 
+{:block/created-at 1727973883438
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 39
+:scale [1 1]
+:pageId "66fec9d2-cb5b-49b0-a851-06ea99de59a1"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [312 41.00002793275685]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b1a639f0-81a6-11ef-a9d4-ab265f47f7cf"
+:noFill false
+:point [272 120]
+:parentId "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:collapsedHeight 0
+:nonce 1727973842103}}
+:block/updated-at 1727973883438})
+:pages (
+{:block/uuid #uuid "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66febaec-c336-4e87-8075-7f2d6bab8a1c"
+:name "activity - current thoughts and concerns about labour market"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("1f551420-819e-11ef-a9d4-ab265f47f7cf" "27b7fd80-819e-11ef-a9d4-ab265f47f7cf" "34782680-819e-11ef-a9d4-ab265f47f7cf" "56d2b4c0-819e-11ef-a9d4-ab265f47f7cf" "68bb83b0-819e-11ef-a9d4-ab265f47f7cf" "7e234030-819e-11ef-a9d4-ab265f47f7cf" "98000a10-819e-11ef-a9d4-ab265f47f7cf" "99db32b0-819e-11ef-a9d4-ab265f47f7cf" "c9ad5310-819e-11ef-a9d4-ab265f47f7cf" "7b35eed0-819f-11ef-a9d4-ab265f47f7cf" "7fee6dd0-819f-11ef-a9d4-ab265f47f7cf" "bc0349d0-819f-11ef-a9d4-ab265f47f7cf" "07265d80-81a0-11ef-a9d4-ab265f47f7cf" "5de9d250-81a0-11ef-a9d4-ab265f47f7cf" "685276c0-81a0-11ef-a9d4-ab265f47f7cf" "acb1d220-81a0-11ef-a9d4-ab265f47f7cf" "bc6ee770-81a0-11ef-a9d4-ab265f47f7cf" "17138e10-81a1-11ef-a9d4-ab265f47f7cf" "1c71c2f0-81a1-11ef-a9d4-ab265f47f7cf" "52087b20-81a1-11ef-a9d4-ab265f47f7cf" "64196b80-81a1-11ef-a9d4-ab265f47f7cf" "dd815360-81a2-11ef-a9d4-ab265f47f7cf" "e7b35770-81a2-11ef-a9d4-ab265f47f7cf" "e97308d0-81a2-11ef-a9d4-ab265f47f7cf" "0382a280-81a3-11ef-a9d4-ab265f47f7cf" "138f5e70-81a3-11ef-a9d4-ab265f47f7cf" "337c2100-81a3-11ef-a9d4-ab265f47f7cf" "5ddfb8d0-81a3-11ef-a9d4-ab265f47f7cf" "d0d7a320-81a3-11ef-a9d4-ab265f47f7cf" "1c3fd620-81a4-11ef-a9d4-ab265f47f7cf" "24a138e0-81a4-11ef-a9d4-ab265f47f7cf" "7e567670-81a4-11ef-a9d4-ab265f47f7cf" "8786e900-81a4-11ef-a9d4-ab265f47f7cf" "3f9e2350-81a5-11ef-a9d4-ab265f47f7cf" "816a29a0-81a5-11ef-a9d4-ab265f47f7cf" "9da9c2b0-81a5-11ef-a9d4-ab265f47f7cf" "37042ef0-81a6-11ef-a9d4-ab265f47f7cf" "40b1e7d0-81a6-11ef-a9d4-ab265f47f7cf" "83b02c90-81a6-11ef-a9d4-ab265f47f7cf" "b1a639f0-81a6-11ef-a9d4-ab265f47f7cf")}}
+:block/updated-at 1727974032905
+:block/created-at 1727970028801
+:block/type "whiteboard"
+:block/name "activity - current thoughts and concerns about labour market"
+:block/original-name "activity - current thoughts and concerns about labour market"})}
