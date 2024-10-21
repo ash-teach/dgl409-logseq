@@ -1,0 +1,15 @@
+## Why Content QA is Critical
+	- Poor content quality (typos, grammar issues) can damage user trust.
+	- Ensures clear and accurate communication with users.
+	- Affects accessibility (e.g., missing alt text) and SEO (e.g., meta descriptions).
+- ## Common Content Issues
+- ## Tools for Content QA
+	- **Grammarly**: For grammar, spelling, and clarity checks.
+	- **Hemingway Editor**: Measures readability and highlights complex sentences.
+	- **WAVE**: Checks for missing alt text and other content accessibility issues.
+	- **Manual Review**: Never underestimate the value of a human proofreading pass.
+- ## Activity
+	- **Pair Editing Exercise**
+	- Pair up and run a content review on a page of their partner’s capstone project.
+	- Focus on clarity, spelling/grammar, and alternative text for images.
+	- Discuss their findings in pairs (5-minute follow-up discussion).

@@ -1,0 +1,42 @@
+## Verification
+	- "Are we building the product right?"
+	- Checking if the product complies with requirements.
+	- Happens during development (e.g., code review, static analysis).
+	- Common techniques:
+		- **Unit testing**: Testing individual functions or pieces of code.
+		- **Code walkthroughs**: Reviewing the logic step-by-step.
+		- **Integration testing**: Ensuring multiple components work together.
+	- Tools for Verification:
+		- **Mocha/Chai** (for JavaScript testing).
+		- **Jest** (for React and other frameworks).
+		- **Selenium** (for automated testing).
+- ## Validation
+	- "Are we building the right product?"
+	- Ensures the product fulfills its intended purpose for the user.
+	- Happens after development or feature completion (e.g., usability testing).
+	- Common techniques:
+		- **User acceptance testing** (UAT): Real users test the product to validate its usability.
+		- **Usability testing**: Observing users as they interact with the product.
+		- **Beta testing**: Releasing a beta version for external testing and feedback.
+- ## Examples of Verification & Validation
+	- **Verification**:
+		- Security -
+		- Credit card validation
+		- Layout of a page
+		- Responsiveness
+		- Scalability - good project structure, integration testing,
+		- Form validation - any kind of user input
+		-
+	- **Validation**:
+		- Accessibility
+		- Perfomance
+		- SEO
+- ## How to Apply Verification and Validation in Your Capstone
+	- Regularly run unit tests during feature development.
+	- Once a feature is complete, validate by testing it with peers or external users.
+	- Incorporate peer code reviews as a method of verification.
+- ## Activity
+	- *Hands on verification and validation testing*
+	- Individual and group work.
+	- Examines a project where a web product needs verification and validation.
+	- Identify verification steps and two validation steps and opportunities.

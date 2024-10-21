@@ -1,0 +1,23 @@
+## What is Quality Assurance (QA)?
+	- Systematic process to ensure products meet specified requirements.
+	- Involves identifying defects early in the development cycle.
+	- Balances between user needs, technical requirements, and business goals.
+	- Continuous process throughout development—iterative improvements.
+- ## Importance of QA in Web & App Development
+	- Prevents costly errors from reaching users.
+	- Enhances product usability and performance.
+	- Helps maintain consistency, stability, and user trust.
+	- Directly tied to user experience and customer satisfaction.
+- ## Why is QA Relevant Now in Your Capstone?
+	- You’ve built an MVP, now polish and ensure reliability.
+	- Effective QA can improve the marketability and success of your project.
+	- QA saves time and resources when applied regularly, rather than after final development.
+- ## QA is Not Just Testing
+	- Planning for QA begins with the design.
+	- Testing is part of QA but so is documentation, code review, user feedback.
+	- QA involves verification (are we building the product right?) and validation (are we building the right product?).
+- ## Activity
+	- **Think-Pair-Share**
+	- Reflect for 2 minutes on any QA challenges you've faced in previous projects or current capstone development.
+	- Pair with a peer to discuss challenges (3 minutes).
+	- Share insights as a class (5 minutes).

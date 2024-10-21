@@ -32,3 +32,11 @@
 	- Challenge in learning outcomes - measured risk?
 	- Finite time -
 	- Technical design document
+- # Proposal assessment fleeting notes
+	- Spend more time on specific KPIs - opportunity for GenAI use.
+	- Spend more time with Excel and demonstrating workflow
+	- Description of MVP in proposal - keep a narrative focus so that there is a basis for the Gantt chart
+	- Common development cycles for Gantt chart (e.g. burndown of bugs remaining)
+	- Demonstrate a clearer link between the Gantt chart and granular tasks
+	- Use Excel to develop granular tasks and loop back to Gantt chart to demonstrate connection
+	- Help students ID appropriate LOs, but have them clearly articulate risks and mitigation in proposal

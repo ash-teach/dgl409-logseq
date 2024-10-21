@@ -1,0 +1,20 @@
+## Why Accessibility Matters
+	- Ensures your product is usable by people with disabilities (legal and ethical obligation).
+	- Follows Web Content Accessibility Guidelines (WCAG) 2.1.
+	- Direct impact on user experience, search engine optimization (SEO), and user retention.
+	- Accessibility is key to inclusivity and expands your potential audience.
+- ## Basic Accessibility Principles
+	- **Perceivable**: Information should be presented in a way users can perceive (e.g., screen readers).
+	- **Operable**: User interface elements must be navigable via keyboard or alternative devices.
+	- **Understandable**: Content should be readable and predictable (clear headings, labels).
+	- **Robust**: Content must work with various devices and assistive technologies.
+- ## Common Accessibility Issues
+- ## Accessibility Testing Tools
+	- **Lighthouse** (Chrome DevTools): Provides an accessibility audit with scores.
+	- **WAVE**: Offers a visual representation of accessibility issues on a page.
+	- **Screen Readers**: Test how content is read aloud to users.
+- ## How to Perform Accessibility Testing
+	- Step 1: Open Chrome DevTools → Lighthouse tab → Generate accessibility report.
+	- Step 2: Run WAVE extension to check for visual issues.
+	- Step 3: Test keyboard navigation (Tab key) through your app.
+	- Step 4: Use a screen reader to test for appropriate alt text, headings, and flow.

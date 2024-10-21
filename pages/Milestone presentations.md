@@ -17,3 +17,10 @@
 		- Demonstration (depending on milestone...)
 		- Work to be completed
 		- Risks to be mitigated
+- # Notes
+	- Clarify distinction between reflection criteria and strategic thinking criteria.
+	- Anticipate questions should be used with more intention. Students should identify valid questions and use these to improve presentation (i.e. add more content, etc)
+	- No student should struggle to fill 15 minutes if appropriate questions are identified
+	- Presentations can remain informal (up til final) and can be thought of as continuations - adding to same PPT is fine
+	- Model better documentation procedures, appropriate methods of reflection, and criteria for risks (they must be actual risks - not just tasks that are incomplete - and should be risks associated with the capstone project - not post-capstone)
+	- Make sure student include appropriate time for presentation development in their timeline/budget - include in Gantt chart template and as example of granular task.

@@ -1,0 +1,24 @@
+## Why Performance Matters
+	- Impacts first impressions (users expect fast-loading websites).
+	- Affects SEO ranking and overall user experience.
+	- Faster websites often have lower bounce rates and higher user engagement.
+	- Especially important for mobile users on slower connections.
+- ## Key Performance Metrics
+	- **First Contentful Paint** (FCP): Time until first text/image appears.
+	- **Time to Interactive** (TTI): Time until the page becomes fully interactive.
+	- **Largest Contentful Paint** (LCP): Time until the largest visible content appears.
+	- **Cumulative Layout Shift** (CLS): Measures unexpected layout shifts during page load.
+- ## Common Performance Bottlenecks
+- ## Performance Testing Tools
+	- **Lighthouse**: Provides performance metrics with recommendations.
+	- **Chrome DevTools** (Performance tab): Analyzes load times, JavaScript execution, and rendering speed.
+	- **WebPageTest**: Advanced performance analysis with waterfall diagrams.
+- ## How to Run a Performance Test
+	- Step 1: Open Chrome DevTools → Lighthouse → Run performance audit.
+	- Step 2: Analyze the report, focusing on FCP, LCP, and CLS.
+	- Step 3: Identify performance bottlenecks and optimize (e.g., compress images, minify JavaScript).
+	- Step 4: Re-test to see the impact of optimizations.
+- ## Activity
+	- *Hands-On Performance Test*
+	- Run performance tests using Lighthouse on a small demo project.
+	- Group discussion of common issues that impact performance.
